@@ -1,0 +1,20 @@
+Proprietäre Lizenz
+
+Diese Software wird von Simeon Lehnen entwickelt und ist Eigentum von Avantag Energy S.á.r.l. .
+
+1. Nutzungsrechte:
+   - Das Unternehmen ist berechtigt, die Software zu nutzen, zu installieren und auf seinen Systemen zu betreiben.
+   - Das Unternehmen darf die Software für interne Zwecke verwenden, jedoch nicht an Dritte weitergeben, verkaufen oder lizenzieren.
+
+2. Änderungsrechte:
+   - Nur der Entwickler hat das Recht, Änderungen am Quellcode der Software vorzunehmen.
+   - Das Unternehmen darf keine Änderungen, Modifikationen oder Anpassungen am Quellcode der Software vornehmen oder vornehmen lassen.
+
+3. Vertraulichkeit:
+   - Das Unternehmen verpflichtet sich, den Quellcode der Software vertraulich zu behandeln und nicht an unbefugte Dritte weiterzugeben.
+
+4. Haftungsausschluss:
+   - Der Entwickler übernimmt keine Haftung für direkte oder indirekte Schäden, die aus der Nutzung der Software entstehen könnten.
+
+5. Geltendes Recht:
+   - Diese Lizenz unterliegt den Gesetzen des Großherzogtums Luxemburg.
