@@ -1,0 +1,6 @@
+ServerIP=172.20.31.55
+ServerPort=19979
+ClientIP=172.20.31.55
+ProjectName=TEST
+Email=fernwirktechnik@avantag.energy
+DevMode=1

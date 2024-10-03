@@ -1,0 +1,506 @@
+01.10.2024 09:24:15: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 09:24:19: Ungültige Anmeldedaten. - ERRO2
+01.10.2024 09:28:39: Watchdog Server wird beendet.
+01.10.2024 09:29:42: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 09:29:44: Fehler: Index and length must refer to a location within the string. (Parameter 'length')
+01.10.2024 09:29:58: Watchdog Server wird beendet.
+01.10.2024 09:32:20: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 09:32:23: Empfangene Nachricht: 12172.20.31.5511TestProjectPing
+01.10.2024 09:32:23: IP Länge: 12, Projektname Länge: 17
+01.10.2024 09:32:23: Ungültige Anmeldedaten. - ERRO2
+01.10.2024 09:34:16: Watchdog Server wird beendet.
+01.10.2024 09:34:24: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 09:34:25: Empfangene Nachricht: 12172.20.31.5511TestProjectPing
+01.10.2024 09:34:25: IP Länge: 12, Projektname Länge: 17
+01.10.2024 09:34:25: Ungültige Anmeldedaten. - ERRO2
+01.10.2024 09:34:40: Watchdog Server wird beendet.
+01.10.2024 09:36:08: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 09:36:09: Empfangene Nachricht: 12172.20.31.5511TestProjectPing
+01.10.2024 09:36:09: IP Länge: 12, Projektname Länge: 17
+01.10.2024 09:36:09: Ungültige Anmeldedaten. - ERRO2
+01.10.2024 09:36:30: Empfangene Nachricht: 12172.20.31.5511TestProjectPing
+01.10.2024 09:36:30: IP Länge: 12, Projektname Länge: 17
+01.10.2024 09:36:30: Ungültige Anmeldedaten. - ERRO2
+01.10.2024 09:37:58: Empfangene Nachricht: 12172.20.31.5512TestProject1Ping
+01.10.2024 09:37:58: IP Länge: 12, Projektname Länge: 17
+01.10.2024 09:37:58: Ungültige Anmeldedaten. - ERRO2
+01.10.2024 09:38:06: Empfangene Nachricht: 12172.20.31.5512TestProject1Ping
+01.10.2024 09:38:06: IP Länge: 12, Projektname Länge: 17
+01.10.2024 09:38:06: Ungültige Anmeldedaten. - ERRO2
+01.10.2024 09:40:50: Watchdog Server wird beendet.
+01.10.2024 09:40:54: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 09:40:56: Empfangene Nachricht: 12172.20.31.5512TestProject1Ping
+01.10.2024 09:40:56: IP Länge: 12, Projektname Länge: 17
+01.10.2024 09:40:56: Ungültige Anmeldedaten. - ERRO2
+01.10.2024 09:44:15: Watchdog Server wird beendet.
+01.10.2024 09:45:08: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 09:45:10: Empfangene Nachricht: 12172.20.31.5512TestProject1Ping
+01.10.2024 09:45:10: IP Länge: 12, Projektname Länge: 17
+01.10.2024 09:45:10: Ungültige Anmeldedaten. - ERRO2
+01.10.2024 09:58:27: Watchdog Server wird beendet.
+01.10.2024 09:59:44: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 09:59:46: Empfangene Nachricht: 12172.20.31.5512TestProject1Ping
+01.10.2024 09:59:46: IP Länge: 12, Projektname Länge: 17
+01.10.2024 09:59:46: Fehler beim Extrahieren der IP oder des Projektnamens: Index and length must refer to a location within the string. (Parameter 'length')
+01.10.2024 10:00:49: Watchdog Server wird beendet.
+01.10.2024 10:01:25: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 10:01:26: Empfangene Nachricht: 12172.20.31.5512TestProject1Ping
+01.10.2024 10:01:26: IP Länge: 12, Projektname Länge: 17
+01.10.2024 10:01:26: Ungültige Anmeldedaten. - ERRO2
+01.10.2024 10:01:34: Watchdog Server wird beendet.
+01.10.2024 10:01:54: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 10:02:00: Empfangene Nachricht: 12172.20.31.5512TestProject1Ping
+01.10.2024 10:02:00: IP Länge: 12, Projektname Länge: 17
+01.10.2024 10:02:00: Fehler beim Extrahieren der IP oder des Projektnamens: Index and length must refer to a location within the string. (Parameter 'length')
+01.10.2024 10:02:09: Empfangene Nachricht: 12172.20.31.5512TestProject1Ping
+01.10.2024 10:02:09: IP Länge: 12, Projektname Länge: 17
+01.10.2024 10:02:09: Fehler beim Extrahieren der IP oder des Projektnamens: Index and length must refer to a location within the string. (Parameter 'length')
+01.10.2024 10:03:31: Empfangene Nachricht: 12172.20.31.5512TestProject1
+01.10.2024 10:03:31: IP Länge: 12, Projektname Länge: 17
+01.10.2024 10:03:31: Fehler beim Extrahieren der IP oder des Projektnamens: Index and length must refer to a location within the string. (Parameter 'length')
+01.10.2024 10:05:44: Watchdog Server wird beendet.
+01.10.2024 10:05:52: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 10:05:54: Empfangene Nachricht: 12172.20.31.5512TestProject1
+01.10.2024 10:05:54: IP Länge: 12, Projektname Länge: 17
+01.10.2024 10:05:54: Client IP: 2.20.31.5512, Projektname: 2.20.31.5512TestP
+01.10.2024 10:05:54: Client angemeldet: 2.20.31.5512 (2.20.31.5512TestP)
+01.10.2024 10:06:54: Fehler beim Senden der E-Mail: Failure sending mail.
+01.10.2024 10:07:03: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 10:07:55: Watchdog Server wird beendet.
+01.10.2024 10:08:01: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 10:08:02: Empfangene Nachricht: 12172.20.31.5512TestProject1
+01.10.2024 10:08:02: IP Länge: 12, Projektname Länge: 17
+01.10.2024 10:08:02: Client IP: 5512TestProject1, Projektname: 2.20.31.5512TestP
+01.10.2024 10:08:02: Client angemeldet: 5512TestProject1 (2.20.31.5512TestP)
+01.10.2024 10:08:12: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 10:08:12: Client getrennt: 5512TestProject1 (2.20.31.5512TestP)
+01.10.2024 10:08:13: Watchdog Server wird beendet.
+01.10.2024 10:09:10: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 10:09:11: Empfangene Nachricht: 12172.20.31.5512TestProject1
+01.10.2024 10:09:11: IP Länge: 12, Projektname Länge: 17
+01.10.2024 10:09:11: Fehler beim Extrahieren der IP oder des Projektnamens: Index and length must refer to a location within the string. (Parameter 'length')
+01.10.2024 10:09:23: Watchdog Server wird beendet.
+01.10.2024 10:09:41: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 10:09:43: Empfangene Nachricht: 12172.20.31.5512TestProject1
+01.10.2024 10:09:43: IP Länge: 12, Projektname Länge: 17
+01.10.2024 10:09:43: Fehler beim Extrahieren der IP oder des Projektnamens: Index and length must refer to a location within the string. (Parameter 'length')
+01.10.2024 10:09:47: Watchdog Server wird beendet.
+01.10.2024 10:09:58: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 10:10:00: Empfangene Nachricht: 12172.20.31.5512TestProject1
+01.10.2024 10:10:00: IP Länge: 12, Projektname Länge: 17
+01.10.2024 10:10:00: Client IP: 2.20.31.5512, Projektname: 2.20.31.5512TestP
+01.10.2024 10:10:00: Client angemeldet: 2.20.31.5512 (2.20.31.5512TestP)
+01.10.2024 10:10:10: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 10:10:10: Client getrennt: 2.20.31.5512 (2.20.31.5512TestP)
+01.10.2024 10:10:51: Watchdog Server wird beendet.
+01.10.2024 10:11:25: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 10:11:28: Empfangene Nachricht: 12172.20.31.5512TestProject1
+01.10.2024 10:11:28: IP Länge: 12, Projektname Länge: 17
+01.10.2024 10:11:28: Fehler beim Extrahieren der IP oder des Projektnamens: Index and length must refer to a location within the string. (Parameter 'length')
+01.10.2024 10:11:35: Watchdog Server wird beendet.
+01.10.2024 10:13:33: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 10:13:34: Empfangene Nachricht: 12172.20.31.5504TEST
+01.10.2024 10:13:34: IP Länge: 12, Projektname Länge: 17
+01.10.2024 10:13:34: Fehler beim Extrahieren der IP oder des Projektnamens: Index and length must refer to a location within the string. (Parameter 'length')
+01.10.2024 10:13:38: Watchdog Server wird beendet.
+01.10.2024 10:18:06: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 10:18:09: Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energyPing
+01.10.2024 10:18:14: Empfangener Projektname: Ping
+01.10.2024 10:18:19: Empfangene E-Mail-Adresse: Ping
+01.10.2024 10:18:19: Client angemeldet: 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping)
+01.10.2024 10:18:24: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:18:29: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:18:34: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:18:39: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:18:44: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:18:49: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:18:54: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:18:59: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:19:04: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:19:09: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:19:14: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:19:19: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:19:24: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:19:29: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:19:34: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:19:39: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:19:44: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:19:49: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:19:54: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:19:59: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:20:04: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:20:09: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:20:14: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:20:19: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:20:24: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:20:29: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:20:34: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:20:39: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:20:44: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:20:49: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:20:54: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:20:59: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:21:04: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:21:09: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:21:14: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:21:19: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:21:24: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:21:29: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:21:34: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:21:39: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:21:44: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:21:49: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:21:54: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:21:59: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:22:04: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:22:09: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:22:14: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:22:19: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:22:24: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:22:29: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:22:34: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:22:39: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:22:44: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:22:49: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:22:54: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:22:59: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:23:04: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:23:09: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:23:14: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:23:19: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:23:24: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:23:29: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:23:34: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:23:39: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:23:44: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:23:49: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:23:54: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:23:58: Watchdog Server wird beendet.
+01.10.2024 10:30:16: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 10:30:23: Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energyPing
+01.10.2024 10:30:28: Empfangener Projektname: Ping
+01.10.2024 10:30:33: Empfangene E-Mail-Adresse: Ping
+01.10.2024 10:30:33: Client-Informationen in Datei gespeichert: 172.20.31.55TESTfernwirktechnik@avantag.energyPing.txt
+01.10.2024 10:30:33: Client angemeldet: 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping)
+01.10.2024 10:30:38: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:30:39: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 10:30:39: Client getrennt: 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping)
+01.10.2024 10:37:27: Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energyPing
+01.10.2024 10:37:32: Empfangener Projektname: Ping
+01.10.2024 10:37:37: Empfangene E-Mail-Adresse: Ping
+01.10.2024 10:37:37: Client-Informationen in Datei gespeichert: 172.20.31.55TESTfernwirktechnik@avantag.energyPing.txt
+01.10.2024 10:37:37: Client angemeldet: 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping)
+01.10.2024 10:37:42: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:37:47: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:37:52: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:37:57: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:38:02: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:38:07: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:38:12: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:38:17: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:38:22: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:38:27: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:38:32: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:38:37: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:38:42: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:38:47: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:38:52: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:38:57: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:39:02: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:39:07: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:39:12: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:39:17: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:39:22: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:39:27: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:39:32: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:39:37: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:39:42: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:39:47: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:39:52: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:39:57: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:40:02: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:40:07: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:40:12: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:40:17: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:40:22: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:40:27: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:40:32: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:40:37: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:40:42: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:40:47: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:40:52: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:40:57: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:41:02: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:41:07: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:41:12: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:41:17: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:41:22: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:41:27: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:41:32: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:41:37: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:41:42: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:41:47: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:41:52: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:41:57: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:42:02: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:42:07: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:42:12: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:42:17: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:42:22: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:42:27: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:42:32: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:42:37: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:42:42: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:42:47: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:42:52: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:42:57: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:43:02: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:43:07: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:43:12: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:43:17: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:43:22: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:43:27: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:43:32: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:43:37: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:43:42: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:43:47: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:43:52: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:43:57: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:44:02: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:44:07: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:44:12: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:44:17: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:44:22: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:44:27: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:44:32: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:44:37: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:44:42: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:44:47: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:44:52: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:44:57: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:45:02: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:45:07: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:45:12: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:45:17: Empfangen von 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping): Ping
+01.10.2024 10:45:20: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 10:45:20: Client getrennt: 172.20.31.55TESTfernwirktechnik@avantag.energyPing (Ping)
+01.10.2024 10:45:30: Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 10:45:54: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 10:45:55: Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 10:46:31: Watchdog Server wird beendet.
+01.10.2024 10:46:33: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 10:46:35: Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 11:15:14: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 11:47:42: Watchdog Server wird beendet.
+01.10.2024 11:47:43: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 11:47:44: Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 11:47:45: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 11:47:47: Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 11:47:49: Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 11:47:50: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 11:47:55: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 11:47:57: Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 11:50:52: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:30:52: Watchdog Server wird beendet.
+01.10.2024 14:32:38: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 14:32:40: Watchdog Server wird beendet.
+01.10.2024 14:33:08: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 14:33:10: Watchdog Server wird beendet.
+01.10.2024 14:34:33: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 14:34:45: Watchdog Server wird beendet.
+01.10.2024 14:35:48: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 14:35:52: Watchdog Server wird beendet.
+01.10.2024 14:36:03: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 14:36:04: Watchdog Server wird beendet.
+01.10.2024 14:36:09: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 14:36:15: Watchdog Server wird beendet.
+01.10.2024 14:37:00: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 14:37:05: Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:37:18: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:37:30: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 14:37:48: Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:38:45: Watchdog Server wird beendet.
+01.10.2024 14:39:24: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 14:39:27: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:39:36: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:39:37: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:39:37: >Empfangene IP-Adresse: 172.20.31.55
+01.10.2024 14:39:37: >Empfangener Projektname: TEST
+01.10.2024 14:39:37: >Empfangene E-Mail-Adresse: fernwirktechnik@avantag.energy
+01.10.2024 14:39:37: Client-Informationen in Datei gespeichert: 172.20.31.55.txt
+01.10.2024 14:39:37: Client angemeldet: 172.20.31.55 (TEST)
+01.10.2024 14:39:43: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:39:44: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:39:44: >Empfangene IP-Adresse: 172.20.31.55
+01.10.2024 14:39:44: >Empfangener Projektname: TESTfernwirktechnik@avantag.energy
+01.10.2024 14:39:45: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:39:46: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:39:52: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:39:53: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:39:54: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:39:55: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:39:56: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:39:57: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:39:58: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:39:58: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:39:58: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:39:58: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:39:58: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:39:58: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:39:58: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:39:58: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:39:58: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:39:58: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:40:46: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 14:40:48: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:40:48: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:40:49: >Empfangene IP-Adresse: 172.20.31.55
+01.10.2024 14:40:49: >Empfangener Projektname: TEST
+01.10.2024 14:40:49: >Empfangene E-Mail-Adresse: fernwirktechnik@avantag.energy
+01.10.2024 14:40:49: Client-Informationen in Datei gespeichert: 172.20.31.55.txt
+01.10.2024 14:40:49: Client angemeldet: 172.20.31.55 (TEST)
+01.10.2024 14:40:49: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:40:49: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:40:49: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:40:50: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:40:50: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:40:50: >Empfangene IP-Adresse: 172.20.31.55
+01.10.2024 14:40:50: >Empfangener Projektname: TEST
+01.10.2024 14:40:50: >Empfangene E-Mail-Adresse: fernwirktechnik@avantag.energy
+01.10.2024 14:40:50: Client-Informationen in Datei gespeichert: 172.20.31.55.txt
+01.10.2024 14:40:50: Client angemeldet: 172.20.31.55 (TEST)
+01.10.2024 14:40:51: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:40:51: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:40:51: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:40:52: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:40:53: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:40:54: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:40:55: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:40:56: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:41:00: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:41:00: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:41:00: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:41:00: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:41:00: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:41:00: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:41:00: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:41:00: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:41:00: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:41:00: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:41:00: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:41:16: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 14:41:19: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:41:19: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:41:19: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:41:20: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:41:20: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:41:20: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:41:21: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:41:21: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:41:21: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:41:21: >Empfangene IP-Adresse: 172.20.31.55
+01.10.2024 14:41:21: >Empfangener Projektname: TEST
+01.10.2024 14:41:21: >Empfangene E-Mail-Adresse: fernwirktechnik@avantag.energy
+01.10.2024 14:41:21: Client-Informationen in Datei gespeichert: 172.20.31.55.txt
+01.10.2024 14:41:21: Client angemeldet: 172.20.31.55 (TEST)
+01.10.2024 14:41:22: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:41:22: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:41:23: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:41:23: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:41:24: >Empfangener Projektname: 
+01.10.2024 14:41:24: >Empfangene E-Mail-Adresse: 
+01.10.2024 14:41:24: Client-Informationen in Datei gespeichert: 172.20.31.55TESTfernwirktechnik@avantag.energy.txt
+01.10.2024 14:41:24: Client angemeldet: 172.20.31.55TESTfernwirktechnik@avantag.energy ()
+01.10.2024 14:41:24: Client getrennt: 172.20.31.55TESTfernwirktechnik@avantag.energy ()
+01.10.2024 14:41:24: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:41:25: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:41:26: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:41:26: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:41:27: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:41:28: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:41:29: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:41:30: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:41:31: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:41:32: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:41:33: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:41:43: Watchdog Server wird beendet.
+01.10.2024 14:42:02: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 14:42:04: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:42:10: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:42:12: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:42:20: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:42:20: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:42:20: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:42:20: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:42:21: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:42:21: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:42:21: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:42:22: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:42:22: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:42:23: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:42:24: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:42:26: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:42:26: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:42:26: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:42:26: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:42:26: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:42:26: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:42:28: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 14:42:30: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:42:32: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:42:40: Watchdog Server wird beendet.
+01.10.2024 14:42:43: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 14:42:44: >Empfangene IP-Adresse: 172.20.31.55
+01.10.2024 14:42:44: >Empfangener Projektname: TEST
+01.10.2024 14:42:44: >Empfangene E-Mail-Adresse: fernwirktechnik@avantag.energy
+01.10.2024 14:42:44: Client-Informationen in Datei gespeichert: 172.20.31.55.txt
+01.10.2024 14:42:44: Client angemeldet: 172.20.31.55 (TEST)
+01.10.2024 14:42:47: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:42:47: Client getrennt: 172.20.31.55 (TEST)
+01.10.2024 14:42:47: Watchdog Server wird beendet.
+01.10.2024 14:42:51: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 14:42:52: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:42:56: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:42:56: Watchdog Server wird beendet.
+01.10.2024 14:43:00: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 14:43:01: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:43:02: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:43:02: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:43:04: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:43:06: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:43:06: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:43:08: Watchdog Server wird beendet.
+01.10.2024 14:43:09: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 14:43:13: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:47:58: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:51:59: Watchdog Server wird beendet.
+01.10.2024 14:52:03: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 14:52:28: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:52:31: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:53:19: Watchdog Server wird beendet.
+01.10.2024 14:55:25: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 14:55:28: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:55:31: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:57:04: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 14:57:08: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:57:10: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:57:25: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 14:57:26: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 14:58:31: Watchdog Server wird beendet.
+01.10.2024 15:05:04: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 15:05:08: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 15:05:17: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 15:05:40: Watchdog Server wird beendet.
+01.10.2024 15:07:44: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+01.10.2024 15:07:47: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 15:07:49: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 15:08:18: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+01.10.2024 15:08:20: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+01.10.2024 15:08:29: Watchdog Server wird beendet.
+02.10.2024 13:26:34: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+02.10.2024 13:26:47: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+02.10.2024 13:29:02: Watchdog Server wird beendet.
+02.10.2024 13:32:53: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+02.10.2024 13:32:54: >Empfangene IP-Adresse: 172.20.31.55TESTfernwirktechnik@avantag.energy
+02.10.2024 13:32:56: Fehler: Unable to read data from the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+02.10.2024 13:32:58: Watchdog Server wird beendet.
