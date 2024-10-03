@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\U23551\\source\\repos\\Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy.csproj",
+      "projectUniqueName": "C:\\Users\\U23551\\Documents\\GitHub\\WatchdogWAGO\\Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy.csproj",
       "projectName": "Watchdog_Server_SL_AvantagEnergy",
-      "projectPath": "C:\\Users\\U23551\\source\\repos\\Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy.csproj",
+      "projectPath": "C:\\Users\\U23551\\Documents\\GitHub\\WatchdogWAGO\\Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy.csproj",
       "packagesPath": "C:\\Users\\U23551\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\U23551\\source\\repos\\Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy\\obj\\",
+      "outputPath": "C:\\Users\\U23551\\Documents\\GitHub\\WatchdogWAGO\\Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
