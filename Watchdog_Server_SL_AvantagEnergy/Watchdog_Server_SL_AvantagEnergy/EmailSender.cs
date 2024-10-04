@@ -2,12 +2,13 @@
 using System.IO;
 using System.Net;
 using System.Net.Mail;
+using System.Threading.Tasks;
 
 namespace Watchdog_Server_SL_AvantagEnergy
 {
     internal static class EmailSender
     {
-        public static void SendFailureEmail(WatchdogServer.ClientInfo clientInfo)
+        public static async Task SendFailureEmail(WatchdogServer.ClientInfo clientInfo)
         {
             try
             {
@@ -31,16 +32,19 @@ namespace Watchdog_Server_SL_AvantagEnergy
                 Credentials = new NetworkCredential("avantag.errorlog@web.de", "Avantag123"),
                 EnableSsl = true,
             };
+            ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls12;
+
             try
             {
-                client.Send(message);
+                await client.SendMailAsync(message);
                 Console.WriteLine("Ausfall-E-Mail gesendet.");
                 LogDev("Ausfall-E-Mail gesendet.");
+                LogEmailSent(message);
             }
             catch (Exception ex)
             {
                 Console.WriteLine($"Fehler beim Senden der E-Mail: {ex.Message}");
-                LogDev($"Fehler beim Senden der E-Mail: {ex.Message}");
+                LogDev($"Fehler beim Senden der E-Mail: {ex.Message}\n{ex.StackTrace}");
             }
         }
 
@@ -84,6 +88,13 @@ namespace Watchdog_Server_SL_AvantagEnergy
         {
             string logMessage = $"{DateTime.Now}: {message}";
             File.AppendAllText("server_devlog.txt", logMessage + Environment.NewLine);
+        }
+
+        private static void LogEmailSent(MailMessage message)
+        {
+            string logFilePath = "logs\\AlarmMailSend.log";
+            string logMessage = $"{DateTime.Now}: E-Mail gesendet an {message.To} mit Betreff '{message.Subject}' und Inhalt:\n{message.Body}";
+            File.AppendAllText(logFilePath, logMessage + Environment.NewLine);
         }
     }
 }

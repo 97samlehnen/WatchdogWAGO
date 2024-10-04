@@ -62,8 +62,15 @@ namespace Watchdog_Server_SL_AvantagEnergy
                         if (kvp.Value.LastActivity < threshold)
                         {
                             LogClientActivity(kvp.Value, "Client hat sich nicht innerhalb von 20 Sekunden gemeldet.");
+                            Console.ForegroundColor = ConsoleColor.Red;
                             Console.WriteLine($"ALARM: Kein Ping von {kvp.Value.IP} innerhalb von 20 Sekunden empfangen.");
-                            EmailSender.SendFailureEmail(kvp.Value);
+                            Console.ResetColor();
+                            LogAlarm($"ALARM: Kein Ping von {kvp.Value.IP} innerhalb von 20 Sekunden empfangen.");
+
+                            // Client-Daten aus Datei laden
+                            var clientInfo = SaveClientData.LoadClientInfoFromFile(kvp.Value.IP);
+                            EmailSender.SendFailureEmail(clientInfo);
+
                             activeClients.TryRemove(kvp.Key, out _);
                         }
                     }
@@ -71,6 +78,7 @@ namespace Watchdog_Server_SL_AvantagEnergy
                 }
             });
             monitoringThread.Start();
+
             Console.WriteLine("Monitoring-Thread gestartet");
 
             while (running)
@@ -83,6 +91,13 @@ namespace Watchdog_Server_SL_AvantagEnergy
             Console.WriteLine("Server gestoppt");
         }
 
+        private static void LogAlarm(string message)
+        {
+            string logFilePath = "logs\\Alarmlog.txt";
+            string logMessage = $"{DateTime.Now}: {message}";
+            File.AppendAllText(logFilePath, logMessage + Environment.NewLine);
+        }
+
         public static void HandleClient(object? obj)
         {
             if (obj is TcpClient client)
@@ -90,54 +105,63 @@ namespace Watchdog_Server_SL_AvantagEnergy
                 NetworkStream stream = client.GetStream();
                 byte[] buffer = new byte[1024];
                 int bytesRead;
-                ClientInfo? clientInfo = null;
+                ClientInfo clientInfo = new ClientInfo(); // Initialisierung von clientInfo
+
                 try
                 {
-                    // Empfang der IP-Adresse
+                    // Empfang der Daten
                     bytesRead = stream.Read(buffer, 0, buffer.Length);
-                    string clientIP = Encoding.ASCII.GetString(buffer, 0, bytesRead).Trim();
-                    Console.WriteLine($">Empfangene IP-Adresse: {clientIP}");
-                    LogDev($">Empfangene IP-Adresse: {clientIP}");
+                    string receivedData = Encoding.ASCII.GetString(buffer, 0, bytesRead).Trim();
+                    Console.WriteLine($">Empfangene Daten: {receivedData}");
+                    LogDev($">Empfangene Daten: {receivedData}");
 
-                    // Empfang des Projektnamens
-                    bytesRead = stream.Read(buffer, 0, buffer.Length);
-                    string projectName = Encoding.ASCII.GetString(buffer, 0, bytesRead).Trim();
-                    Console.WriteLine($">Empfangener Projektname: {projectName}");
-                    LogDev($">Empfangener Projektname: {projectName}");
-
-                    // Empfang der E-Mail-Adresse
-                    bytesRead = stream.Read(buffer, 0, buffer.Length);
-                    string email = Encoding.ASCII.GetString(buffer, 0, bytesRead).Trim();
-                    Console.WriteLine($">Empfangene E-Mail-Adresse: {email}");
-                    LogDev($">Empfangene E-Mail-Adresse: {email}");
-
-                    clientInfo = new ClientInfo
+                    // Daten parsen
+                    var dataParts = receivedData.Split(';');
+                    foreach (var part in dataParts)
                     {
-                        //Client = client,
-                        IP = clientIP,
-                        ProjectName = projectName,
-                        Email = email,
-                        //LastActivity = DateTime.Now
-                    };
+                        if (part.StartsWith("IP:"))
+                        {
+                            clientInfo.IP = part.Substring("IP:".Length);
+                        }
+                        else if (part.StartsWith("ProjectName:"))
+                        {
+                            clientInfo.ProjectName = part.Substring("ProjectName:".Length);
+                        }
+                        else if (part.StartsWith("Email:"))
+                        {
+                            clientInfo.Email = part.Substring("Email:".Length);
+                        }
+                    }
 
-                    Console.WriteLine("Speichere Client-Informationen...");
+                    // Initialisierung der LastActivity
+                    clientInfo.LastActivity = DateTime.Now;
+
+                    Console.WriteLine($">Empfangene IP-Adresse: {clientInfo.IP}");
+                    Console.WriteLine($">Empfangener Projektname: {clientInfo.ProjectName}");
+                    Console.WriteLine($">Empfangene E-Mail-Adresse: {clientInfo.Email}");
+                    LogDev($">Empfangene IP-Adresse: {clientInfo.IP}");
+                    LogDev($">Empfangener Projektname: {clientInfo.ProjectName}");
+                    LogDev($">Empfangene E-Mail-Adresse: {clientInfo.Email}");
+
+                    // Speichern der Client-Informationen
                     SaveClientData.SaveClientInfoToFile(clientInfo);
-                    activeClients.TryAdd(client, clientInfo);
-                    LogClientActivity(clientInfo, "Client angemeldet.");
-                    LogDev($"Client angemeldet: {clientIP} ({projectName})");
 
+                    // Hinzufügen des Clients zur aktiven Liste
+                    activeClients.TryAdd(client, clientInfo);
+
+                    // Empfang von Pings
                     while ((bytesRead = stream.Read(buffer, 0, buffer.Length)) != 0)
                     {
                         string message = Encoding.ASCII.GetString(buffer, 0, bytesRead).Trim();
-                        if (message == "Ping")
+                        if (message == clientInfo.ProjectName) // Überprüfung der Ping-Nachricht
                         {
-                            Console.WriteLine($">Ping von {clientIP} empfangen.");
-                            LogDev($">Ping von {clientIP} empfangen.");
+                            Console.WriteLine($">Ping von {clientInfo.IP} empfangen.");
+                            LogDev($">Ping von {clientInfo.IP} empfangen.");
                         }
                         else
                         {
-                            Console.WriteLine($">Empfangen von {clientIP} ({projectName}): {message}");
-                            LogDev($">Empfangen von {clientIP} ({projectName}): {message}");
+                            Console.WriteLine($">Empfangen von {clientInfo.ProjectName}: {message}");
+                            LogDev($">Empfangen von {clientInfo.IP} ({clientInfo.ProjectName}): {message}");
                         }
                         clientInfo.LastActivity = DateTime.Now; // Aktualisieren der letzten Aktivität
                         LogClientActivity(clientInfo, $">Empfangen: {message}");
@@ -160,12 +184,25 @@ namespace Watchdog_Server_SL_AvantagEnergy
                     {
                         LogClientActivity(clientInfo, "Client getrennt.");
                         LogDev($"Client getrennt: {clientInfo.IP} ({clientInfo.ProjectName})");
-                        EmailSender.SendFailureEmail(clientInfo);
+                        // Alarm wird nach 20 Sekunden ausgelöst, wenn der Client sich nicht wieder anmeldet
+                        Task.Run(async () =>
+                        {
+                            await Task.Delay(2000);
+                            if (!activeClients.ContainsKey(client))
+                            {
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"ALARM: Client {clientInfo.IP} hat sich nicht innerhalb von 20 Sekunden wieder angemeldet.");
+                                Console.ResetColor();
+                                LogAlarm($"ALARM: Client {clientInfo.IP} hat sich nicht innerhalb von 20 Sekunden wieder angemeldet.");
+                                await EmailSender.SendFailureEmail(clientInfo);
+                            }
+                        });
                     }
                     client.Close();
                 }
             }
         }
+
 
         private static void LoadConfig()
         {

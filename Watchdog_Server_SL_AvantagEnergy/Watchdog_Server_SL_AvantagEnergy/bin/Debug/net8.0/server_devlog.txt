@@ -1216,3 +1216,409 @@
 04.10.2024 10:57:41: >Ping von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyPing empfangen.
 04.10.2024 10:57:45: Client Verbindung verloren.
 04.10.2024 10:57:48: Watchdog Server wird beendet.
+04.10.2024 11:08:54: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+04.10.2024 11:08:58: >Empfangene IP-Adresse: IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyPing
+04.10.2024 11:09:03: >Empfangener Projektname: Ping
+04.10.2024 11:09:08: >Empfangene E-Mail-Adresse: Ping
+04.10.2024 11:09:08: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\test.cfg
+04.10.2024 11:09:08: Client angemeldet: IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyPing (Ping)
+04.10.2024 11:09:08: Client Verbindung verloren.
+04.10.2024 11:09:08: Client getrennt: IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyPing (Ping)
+04.10.2024 11:09:08: Fehler beim Laden der Client-Informationen: Datei nicht gefunden: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyPing.txt
+04.10.2024 11:09:23: Watchdog Server wird beendet.
+04.10.2024 11:36:28: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+04.10.2024 11:40:09: Watchdog Server wird beendet.
+04.10.2024 11:41:09: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+04.10.2024 11:41:10: Watchdog Server wird beendet.
+04.10.2024 11:42:35: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+04.10.2024 11:42:42: >Empfangene IP-Adresse: IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyPing
+04.10.2024 11:42:47: >Empfangener Projektname: Ping
+04.10.2024 11:42:52: >Empfangene E-Mail-Adresse: Ping
+04.10.2024 11:42:52: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\test.cfg
+04.10.2024 11:42:52: Client angemeldet: IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyPing (Ping)
+04.10.2024 11:42:55: Fehler beim Laden der Client-Informationen: Datei nicht gefunden: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyPing.txt
+04.10.2024 11:42:57: >Ping von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyPing empfangen.
+04.10.2024 11:43:02: >Ping von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyPing empfangen.
+04.10.2024 11:43:07: >Ping von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyPing empfangen.
+04.10.2024 11:43:12: >Ping von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyPing empfangen.
+04.10.2024 11:43:17: >Ping von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyPing empfangen.
+04.10.2024 11:43:22: >Ping von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyPing empfangen.
+04.10.2024 11:43:27: >Ping von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyPing empfangen.
+04.10.2024 11:43:32: >Ping von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyPing empfangen.
+04.10.2024 11:43:37: >Ping von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyPing empfangen.
+04.10.2024 11:43:42: >Ping von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyPing empfangen.
+04.10.2024 11:43:47: >Ping von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyPing empfangen.
+04.10.2024 11:43:52: >Ping von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyPing empfangen.
+04.10.2024 11:43:53: Client Verbindung verloren.
+04.10.2024 11:44:39: >Empfangene IP-Adresse: IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyHALLO
+04.10.2024 11:44:44: >Empfangener Projektname: HALLO
+04.10.2024 11:44:49: >Empfangene E-Mail-Adresse: HALLO
+04.10.2024 11:44:49: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\test.cfg
+04.10.2024 11:44:49: Client angemeldet: IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyHALLO (HALLO)
+04.10.2024 11:44:50: Fehler beim Laden der Client-Informationen: Datei nicht gefunden: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyHALLO.txt
+04.10.2024 11:44:54: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyHALLO (HALLO): HALLO
+04.10.2024 11:44:59: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyHALLO (HALLO): HALLO
+04.10.2024 11:45:04: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyHALLO (HALLO): HALLO
+04.10.2024 11:45:09: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyHALLO (HALLO): HALLO
+04.10.2024 11:45:14: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyHALLO (HALLO): HALLO
+04.10.2024 11:45:19: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyHALLO (HALLO): HALLO
+04.10.2024 11:45:24: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyHALLO (HALLO): HALLO
+04.10.2024 11:45:25: Client Verbindung verloren.
+04.10.2024 11:45:36: >Empfangene IP-Adresse: IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyHALLO
+04.10.2024 11:45:41: >Empfangener Projektname: HALLO
+04.10.2024 11:45:46: >Empfangene E-Mail-Adresse: HALLO
+04.10.2024 11:45:46: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\test.cfg
+04.10.2024 11:45:46: Client angemeldet: IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyHALLO (HALLO)
+04.10.2024 11:45:50: Fehler beim Laden der Client-Informationen: Datei nicht gefunden: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyHALLO.txt
+04.10.2024 11:45:51: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyHALLO (HALLO): HALLO
+04.10.2024 11:45:56: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyHALLO (HALLO): HALLO
+04.10.2024 11:46:01: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyHALLO (HALLO): HALLO
+04.10.2024 11:46:06: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyHALLO (HALLO): HALLO
+04.10.2024 11:46:11: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyHALLO (HALLO): HALLO
+04.10.2024 11:46:16: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyHALLO (HALLO): HALLO
+04.10.2024 11:46:21: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyHALLO (HALLO): HALLO
+04.10.2024 11:46:22: Client Verbindung verloren.
+04.10.2024 11:46:34: >Empfangene IP-Adresse: IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST
+04.10.2024 11:46:39: >Empfangener Projektname: TEST
+04.10.2024 11:46:44: >Empfangene E-Mail-Adresse: TEST
+04.10.2024 11:46:44: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\test.cfg
+04.10.2024 11:46:44: Client angemeldet: IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST)
+04.10.2024 11:46:45: Fehler beim Laden der Client-Informationen: Datei nicht gefunden: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST.txt
+04.10.2024 11:46:49: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:46:54: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:46:59: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:47:04: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:47:09: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:47:14: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:47:19: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:47:24: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:47:29: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:47:34: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:47:39: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:47:44: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:47:49: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:47:54: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:47:59: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:48:04: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:48:09: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:48:14: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:48:19: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:48:24: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:48:29: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:48:34: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:48:39: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:48:44: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:48:49: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:48:54: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:48:59: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:49:04: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:49:09: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:49:14: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:49:19: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:49:24: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:49:29: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:49:34: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:49:39: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:49:44: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:49:49: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:49:54: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:49:59: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:50:04: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:50:08: Watchdog Server wird beendet.
+04.10.2024 11:50:47: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+04.10.2024 11:50:55: >Empfangene IP-Adresse: IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST
+04.10.2024 11:51:00: >Empfangener Projektname: TEST
+04.10.2024 11:51:05: >Empfangene E-Mail-Adresse: TEST
+04.10.2024 11:51:05: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\test.cfg
+04.10.2024 11:51:05: Client angemeldet: IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST)
+04.10.2024 11:51:07: Fehler beim Laden der Client-Informationen: Datei nicht gefunden: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST.txt
+04.10.2024 11:51:10: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:51:15: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:51:20: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:51:25: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:51:30: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:51:35: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:51:40: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:51:45: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:51:50: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:51:55: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:52:00: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:52:05: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:52:10: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:52:15: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:52:20: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:52:25: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:52:30: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:52:40: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+04.10.2024 11:52:47: >Empfangene IP-Adresse: IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST
+04.10.2024 11:52:52: >Empfangener Projektname: TEST
+04.10.2024 11:52:57: >Empfangene E-Mail-Adresse: TEST
+04.10.2024 11:52:57: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\test.cfg
+04.10.2024 11:52:57: Client angemeldet: IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST)
+04.10.2024 11:53:00: Fehler beim Laden der Client-Informationen: Datei nicht gefunden: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST.txt
+04.10.2024 11:53:02: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 11:53:07: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:51:16: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+04.10.2024 12:51:23: >Empfangene IP-Adresse: IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST
+04.10.2024 12:51:28: >Empfangener Projektname: TEST
+04.10.2024 12:51:33: >Empfangene E-Mail-Adresse: TEST
+04.10.2024 12:51:33: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\test.cfg
+04.10.2024 12:51:33: Client angemeldet: IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST)
+04.10.2024 12:51:36: Fehler beim Laden der Client-Informationen: Datei nicht gefunden: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST.txt
+04.10.2024 12:51:38: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:51:43: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:51:48: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:51:53: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:51:58: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:52:03: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:52:08: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:52:13: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:52:18: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:52:23: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:52:28: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:52:33: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:52:38: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:52:44: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:52:48: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:52:53: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:52:58: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:53:03: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:53:08: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:53:13: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:53:18: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:53:23: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:53:28: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:53:33: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:53:38: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:53:43: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:53:48: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:53:53: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:53:58: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:54:03: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:54:08: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:54:13: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:54:18: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:54:23: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:54:28: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:54:33: >Empfangen von IP: 172.20.31.55ProjectName: TESTEmail: fernwirktechnik@avantag.energyTEST (TEST): TEST
+04.10.2024 12:54:35: Watchdog Server wird beendet.
+04.10.2024 12:59:08: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+04.10.2024 12:59:15: >Empfangene Daten: IP:172.20.31.55;ProjectName:TEST;Email:fernwirktechnik@avantag.energy;TEST
+04.10.2024 12:59:15: Fehler: Object reference not set to an instance of an object.
+04.10.2024 12:59:44: Watchdog Server wird beendet.
+04.10.2024 13:04:41: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+04.10.2024 13:04:50: >Empfangene Daten: IP:172.20.31.55;ProjectName:TEST;Email:fernwirktechnik@avantag.energy;TEST
+04.10.2024 13:04:50: >Empfangene IP-Adresse: 172.20.31.55
+04.10.2024 13:04:50: >Empfangener Projektname: TEST
+04.10.2024 13:04:50: >Empfangene E-Mail-Adresse: fernwirktechnik@avantag.energy
+04.10.2024 13:06:13: Watchdog Server wird beendet.
+04.10.2024 13:06:20: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+04.10.2024 13:06:29: >Empfangene Daten: IP:172.20.31.55;ProjectName:TEST;Email:fernwirktechnik@avantag.energy;TEST
+04.10.2024 13:06:29: >Empfangene IP-Adresse: 172.20.31.55
+04.10.2024 13:06:29: >Empfangener Projektname: TEST
+04.10.2024 13:06:29: >Empfangene E-Mail-Adresse: fernwirktechnik@avantag.energy
+04.10.2024 13:06:47: Watchdog Server wird beendet.
+04.10.2024 13:06:48: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+04.10.2024 13:06:56: >Empfangene Daten: IP:172.20.31.55;ProjectName:TEST;Email:fernwirktechnik@avantag.energy;TEST
+04.10.2024 13:06:56: >Empfangene IP-Adresse: 172.20.31.55
+04.10.2024 13:06:56: >Empfangener Projektname: TEST
+04.10.2024 13:06:56: >Empfangene E-Mail-Adresse: fernwirktechnik@avantag.energy
+04.10.2024 13:08:31: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+04.10.2024 13:08:40: >Empfangene Daten: IP:172.20.31.55;ProjectName:TEST;Email:fernwirktechnik@avantag.energy;TEST
+04.10.2024 13:08:40: >Empfangene IP-Adresse: 172.20.31.55
+04.10.2024 13:08:40: >Empfangener Projektname: TEST
+04.10.2024 13:08:40: >Empfangene E-Mail-Adresse: fernwirktechnik@avantag.energy
+04.10.2024 13:08:40: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\test.cfg
+04.10.2024 13:08:41: Fehler beim Laden der Client-Informationen: Datei nicht gefunden: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\172.20.31.55.txt
+04.10.2024 13:08:45: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:08:50: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:08:55: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:09:00: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:09:05: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:09:10: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:09:15: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:09:20: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:09:25: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:09:30: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:09:35: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:09:40: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:09:45: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:09:50: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:09:55: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:10:00: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:10:05: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:10:10: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:10:15: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:10:20: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:10:25: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:10:30: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:10:35: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:10:40: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:10:44: Watchdog Server wird beendet.
+04.10.2024 13:11:28: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+04.10.2024 13:11:36: >Empfangene Daten: IP:172.20.31.55;ProjectName:TEST;Email:fernwirktechnik@avantag.energy;TEST
+04.10.2024 13:11:36: >Empfangene IP-Adresse: 172.20.31.55
+04.10.2024 13:11:36: >Empfangener Projektname: TEST
+04.10.2024 13:11:36: >Empfangene E-Mail-Adresse: fernwirktechnik@avantag.energy
+04.10.2024 13:11:36: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\172.20.31.55.txt
+04.10.2024 13:11:41: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:11:46: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:11:51: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:11:56: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:12:02: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:12:07: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:12:12: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:12:17: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:12:21: Fehler beim Senden der E-Mail: Failure sending mail.
+04.10.2024 13:12:22: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:12:27: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:12:30: Watchdog Server wird beendet.
+04.10.2024 13:14:27: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+04.10.2024 13:14:36: >Empfangene Daten: IP:172.20.31.55;ProjectName:TEST;Email:fernwirktechnik@avantag.energy;TEST
+04.10.2024 13:14:36: >Empfangene IP-Adresse: 172.20.31.55
+04.10.2024 13:14:36: >Empfangener Projektname: TEST
+04.10.2024 13:14:36: >Empfangene E-Mail-Adresse: fernwirktechnik@avantag.energy
+04.10.2024 13:14:36: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\172.20.31.55.txt
+04.10.2024 13:14:40: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:14:45: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:14:50: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:14:55: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:15:00: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:15:05: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:15:11: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:15:16: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:15:21: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:15:26: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:15:27: Client Verbindung verloren.
+04.10.2024 13:15:27: Client getrennt: 172.20.31.55 (TEST)
+04.10.2024 13:15:32: Watchdog Server wird beendet.
+04.10.2024 13:21:56: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+04.10.2024 13:22:05: >Empfangene Daten: IP:172.20.31.55;ProjectName:TEST;Email:fernwirktechnik@avantag.energy;TEST
+04.10.2024 13:22:05: >Empfangene IP-Adresse: 172.20.31.55
+04.10.2024 13:22:05: >Empfangener Projektname: TEST
+04.10.2024 13:22:05: >Empfangene E-Mail-Adresse: fernwirktechnik@avantag.energy
+04.10.2024 13:22:05: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\172.20.31.55.txt
+04.10.2024 13:22:10: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:22:12: Client Verbindung verloren.
+04.10.2024 13:22:12: Client getrennt: 172.20.31.55 (TEST)
+04.10.2024 13:22:30: Watchdog Server wird beendet.
+04.10.2024 13:22:44: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+04.10.2024 13:22:51: >Empfangene Daten: IP:172.20.31.55;ProjectName:TEST;Email:fernwirktechnik@avantag.energy;TEST
+04.10.2024 13:22:51: >Empfangene IP-Adresse: 172.20.31.55
+04.10.2024 13:22:51: >Empfangener Projektname: TEST
+04.10.2024 13:22:51: >Empfangene E-Mail-Adresse: fernwirktechnik@avantag.energy
+04.10.2024 13:22:51: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\172.20.31.55.txt
+04.10.2024 13:22:56: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:22:58: Client Verbindung verloren.
+04.10.2024 13:22:58: Client getrennt: 172.20.31.55 (TEST)
+04.10.2024 13:23:18: Watchdog Server wird beendet.
+04.10.2024 13:31:22: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+04.10.2024 13:31:30: >Empfangene Daten: IP:172.20.31.55;ProjectName:TEST;Email:fernwirktechnik@avantag.energy;TEST
+04.10.2024 13:31:30: >Empfangene IP-Adresse: 172.20.31.55
+04.10.2024 13:31:30: >Empfangener Projektname: TEST
+04.10.2024 13:31:30: >Empfangene E-Mail-Adresse: fernwirktechnik@avantag.energy
+04.10.2024 13:31:30: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\172.20.31.55.txt
+04.10.2024 13:31:35: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:31:37: Client Verbindung verloren.
+04.10.2024 13:31:37: Client getrennt: 172.20.31.55 (TEST)
+04.10.2024 13:31:45: Watchdog Server wird beendet.
+04.10.2024 13:32:22: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+04.10.2024 13:32:28: >Empfangene Daten: IP:172.20.31.55;ProjectName:TEST;Email:fernwirktechnik@avantag.energy;TEST
+04.10.2024 13:32:28: >Empfangene IP-Adresse: 172.20.31.55
+04.10.2024 13:32:28: >Empfangener Projektname: TEST
+04.10.2024 13:32:28: >Empfangene E-Mail-Adresse: fernwirktechnik@avantag.energy
+04.10.2024 13:32:28: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\172.20.31.55.txt
+04.10.2024 13:32:30: Client Verbindung verloren.
+04.10.2024 13:32:30: Client getrennt: 172.20.31.55 (TEST)
+04.10.2024 13:32:41: >Empfangene Daten: IP:172.20.31.55;ProjectName:TEST;Email:fernwirktechnik@avantag.energy;TEST
+04.10.2024 13:32:41: >Empfangene IP-Adresse: 172.20.31.55
+04.10.2024 13:32:41: >Empfangener Projektname: TEST
+04.10.2024 13:32:41: >Empfangene E-Mail-Adresse: fernwirktechnik@avantag.energy
+04.10.2024 13:32:41: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\172.20.31.55.txt
+04.10.2024 13:32:46: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:32:51: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:32:52: Client Verbindung verloren.
+04.10.2024 13:32:52: Client getrennt: 172.20.31.55 (TEST)
+04.10.2024 13:33:14: Fehler beim Senden der E-Mail: Failure sending mail.
+04.10.2024 13:33:36: Fehler beim Senden der E-Mail: Failure sending mail.
+04.10.2024 13:33:54: >Empfangene Daten: IP:172.20.31.55;ProjectName:TEST;Email:fernwirktechnik@avantag.energy;TEST
+04.10.2024 13:33:54: >Empfangene IP-Adresse: 172.20.31.55
+04.10.2024 13:33:54: >Empfangener Projektname: TEST
+04.10.2024 13:33:54: >Empfangene E-Mail-Adresse: fernwirktechnik@avantag.energy
+04.10.2024 13:33:54: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\172.20.31.55.txt
+04.10.2024 13:33:59: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:34:01: Client Verbindung verloren.
+04.10.2024 13:34:01: Client getrennt: 172.20.31.55 (TEST)
+04.10.2024 13:34:04: Watchdog Server wird beendet.
+04.10.2024 13:35:47: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+04.10.2024 13:35:54: >Empfangene Daten: IP:172.20.31.55;ProjectName:TEST;Email:fernwirktechnik@avantag.energy;TEST
+04.10.2024 13:35:54: >Empfangene IP-Adresse: 172.20.31.55
+04.10.2024 13:35:54: >Empfangener Projektname: TEST
+04.10.2024 13:35:54: >Empfangene E-Mail-Adresse: fernwirktechnik@avantag.energy
+04.10.2024 13:35:54: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\172.20.31.55.txt
+04.10.2024 13:35:56: Client Verbindung verloren.
+04.10.2024 13:35:56: Client getrennt: 172.20.31.55 (TEST)
+04.10.2024 13:36:12: >Empfangene Daten: IP:172.20.31.55;ProjectName:TEST;Email:fernwirktechnik@avantag.energy;TEST
+04.10.2024 13:36:12: >Empfangene IP-Adresse: 172.20.31.55
+04.10.2024 13:36:12: >Empfangener Projektname: TEST
+04.10.2024 13:36:12: >Empfangene E-Mail-Adresse: fernwirktechnik@avantag.energy
+04.10.2024 13:36:12: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\172.20.31.55.txt
+04.10.2024 13:36:17: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:36:19: Client Verbindung verloren.
+04.10.2024 13:36:19: Client getrennt: 172.20.31.55 (TEST)
+04.10.2024 13:36:37: Watchdog Server wird beendet.
+04.10.2024 13:41:16: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+04.10.2024 13:41:26: >Empfangene Daten: IP:172.20.31.55;ProjectName:TEST;Email:fernwirktechnik@avantag.energy;TEST
+04.10.2024 13:41:26: >Empfangene IP-Adresse: 172.20.31.55
+04.10.2024 13:41:26: >Empfangener Projektname: TEST
+04.10.2024 13:41:26: >Empfangene E-Mail-Adresse: fernwirktechnik@avantag.energy
+04.10.2024 13:41:26: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\172.20.31.55.txt
+04.10.2024 13:41:31: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:41:34: Client Verbindung verloren.
+04.10.2024 13:41:34: Client getrennt: 172.20.31.55 (TEST)
+04.10.2024 13:42:18: Fehler beim Senden der E-Mail: Failure sending mail.
+04.10.2024 13:42:56: Watchdog Server wird beendet.
+04.10.2024 13:43:31: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+04.10.2024 13:43:38: >Empfangene Daten: IP:172.20.31.55;ProjectName:TEST;Email:fernwirktechnik@avantag.energy;TEST
+04.10.2024 13:43:38: >Empfangene IP-Adresse: 172.20.31.55
+04.10.2024 13:43:38: >Empfangener Projektname: TEST
+04.10.2024 13:43:38: >Empfangene E-Mail-Adresse: fernwirktechnik@avantag.energy
+04.10.2024 13:43:38: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\172.20.31.55.txt
+04.10.2024 13:43:43: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:43:48: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:43:52: Client Verbindung verloren.
+04.10.2024 13:43:52: Client getrennt: 172.20.31.55 (TEST)
+04.10.2024 13:44:37: Fehler beim Senden der E-Mail: Failure sending mail.
+   at Watchdog_Server_SL_AvantagEnergy.EmailSender.SendFailureEmail(ClientInfo clientInfo) in C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\EmailSender.cs:line 39
+04.10.2024 13:45:05: >Empfangene Daten: IP:172.20.31.55;ProjectName:TEST;Email:fernwirktechnik@avantag.energy;TEST
+04.10.2024 13:45:05: >Empfangene IP-Adresse: 172.20.31.55
+04.10.2024 13:45:05: >Empfangener Projektname: TEST
+04.10.2024 13:45:05: >Empfangene E-Mail-Adresse: fernwirktechnik@avantag.energy
+04.10.2024 13:45:05: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\172.20.31.55.txt
+04.10.2024 13:45:10: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:45:15: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:45:20: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:45:25: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:45:30: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:45:35: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:45:40: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:45:45: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:45:50: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:45:55: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:46:00: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:46:05: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:46:10: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:46:15: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:46:20: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:46:25: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:46:30: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:46:35: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:46:40: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:46:45: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:46:50: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:46:55: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:47:00: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:47:06: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:47:11: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:47:16: >Ping von 172.20.31.55 empfangen.
+04.10.2024 13:47:21: >Ping von 172.20.31.55 empfangen.

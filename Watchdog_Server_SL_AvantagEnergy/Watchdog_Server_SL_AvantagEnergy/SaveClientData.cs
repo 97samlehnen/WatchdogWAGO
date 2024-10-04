@@ -13,7 +13,7 @@ namespace Watchdog_Server_SL_AvantagEnergy
                 Directory.CreateDirectory(directoryPath);
             }
 
-            string filePath = Path.Combine(directoryPath, $"test.cfg");
+            string filePath = Path.Combine(directoryPath, $"{clientInfo.IP}.txt");
             string newContent = $"IP={clientInfo.IP}\nProjectName={clientInfo.ProjectName}\nEmail={clientInfo.Email}";
 
             Console.WriteLine($"Speichere in Datei: {filePath}");
@@ -21,6 +21,38 @@ namespace Watchdog_Server_SL_AvantagEnergy
 
             File.WriteAllText(filePath, newContent);
             LogDev($"Client-Informationen in Datei gespeichert: {filePath}");
+        }
+
+        public static WatchdogServer.ClientInfo LoadClientInfoFromFile(string ip)
+        {
+            string directoryPath = "C:\\Users\\U23551\\Documents\\GitHub\\WatchdogWAGO\\Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy\\bin\\Debug\\net8.0\\clients";
+            string filePath = Path.Combine(directoryPath, $"{ip}.txt");
+
+            if (!File.Exists(filePath))
+            {
+                throw new FileNotFoundException($"Datei nicht gefunden: {filePath}");
+            }
+
+            var lines = File.ReadAllLines(filePath);
+            var clientInfo = new WatchdogServer.ClientInfo();
+
+            foreach (var line in lines)
+            {
+                if (line.StartsWith("IP="))
+                {
+                    clientInfo.IP = line.Substring("IP=".Length);
+                }
+                else if (line.StartsWith("ProjectName="))
+                {
+                    clientInfo.ProjectName = line.Substring("ProjectName=".Length);
+                }
+                else if (line.StartsWith("Email="))
+                {
+                    clientInfo.Email = line.Substring("Email=".Length);
+                }
+            }
+
+            return clientInfo;
         }
 
         private static void LogDev(string message)

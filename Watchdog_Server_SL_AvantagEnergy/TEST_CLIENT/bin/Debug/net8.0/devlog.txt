@@ -2291,3 +2291,372 @@ durch den Hostcomputer abgebrochen..
 04.10.2024 10:57:31: Ping gesendet.
 04.10.2024 10:57:36: Ping gesendet.
 04.10.2024 10:57:41: Ping gesendet.
+04.10.2024 11:08:58: Fehler beim Herunterladen der server_ip.txt: The SSL connection could not be established, see inner exception.
+04.10.2024 11:08:58: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 11:08:58: Nachricht gesendet: ProjectName: TEST
+04.10.2024 11:08:58: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 11:08:58: Ping gesendet.
+04.10.2024 11:09:03: Ping gesendet.
+04.10.2024 11:09:08: Ping gesendet.
+04.10.2024 11:36:31: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 11:36:38: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 11:38:47: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 11:42:37: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 11:42:42: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 11:42:42: Nachricht gesendet: ProjectName: TEST
+04.10.2024 11:42:42: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 11:42:42: Ping gesendet.
+04.10.2024 11:42:47: Ping gesendet.
+04.10.2024 11:42:52: Ping gesendet.
+04.10.2024 11:42:57: Ping gesendet.
+04.10.2024 11:43:02: Ping gesendet.
+04.10.2024 11:43:07: Ping gesendet.
+04.10.2024 11:43:12: Ping gesendet.
+04.10.2024 11:43:17: Ping gesendet.
+04.10.2024 11:43:22: Ping gesendet.
+04.10.2024 11:43:27: Ping gesendet.
+04.10.2024 11:43:32: Ping gesendet.
+04.10.2024 11:43:37: Ping gesendet.
+04.10.2024 11:43:42: Ping gesendet.
+04.10.2024 11:43:47: Ping gesendet.
+04.10.2024 11:43:52: Ping gesendet.
+04.10.2024 11:44:34: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 11:44:39: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 11:44:39: Nachricht gesendet: ProjectName: TEST
+04.10.2024 11:44:39: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 11:44:39: Ping gesendet.
+04.10.2024 11:44:44: Ping gesendet.
+04.10.2024 11:44:49: Ping gesendet.
+04.10.2024 11:44:54: Ping gesendet.
+04.10.2024 11:44:59: Ping gesendet.
+04.10.2024 11:45:04: Ping gesendet.
+04.10.2024 11:45:09: Ping gesendet.
+04.10.2024 11:45:14: Ping gesendet.
+04.10.2024 11:45:19: Ping gesendet.
+04.10.2024 11:45:24: Ping gesendet.
+04.10.2024 11:45:31: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 11:45:36: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 11:45:36: Nachricht gesendet: ProjectName: TEST
+04.10.2024 11:45:36: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 11:45:36: Ping gesendet.
+04.10.2024 11:45:41: Ping gesendet.
+04.10.2024 11:45:46: Ping gesendet.
+04.10.2024 11:45:51: Ping gesendet.
+04.10.2024 11:45:56: Ping gesendet.
+04.10.2024 11:46:01: Ping gesendet.
+04.10.2024 11:46:06: Ping gesendet.
+04.10.2024 11:46:11: Ping gesendet.
+04.10.2024 11:46:16: Ping gesendet.
+04.10.2024 11:46:21: Ping gesendet.
+04.10.2024 11:46:28: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 11:46:33: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 11:46:34: Nachricht gesendet: ProjectName: TEST
+04.10.2024 11:46:34: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 11:46:34: Ping gesendet.
+04.10.2024 11:46:39: Ping gesendet.
+04.10.2024 11:46:44: Ping gesendet.
+04.10.2024 11:46:49: Ping gesendet.
+04.10.2024 11:46:54: Ping gesendet.
+04.10.2024 11:46:59: Ping gesendet.
+04.10.2024 11:47:04: Ping gesendet.
+04.10.2024 11:47:09: Ping gesendet.
+04.10.2024 11:47:14: Ping gesendet.
+04.10.2024 11:47:19: Ping gesendet.
+04.10.2024 11:47:24: Ping gesendet.
+04.10.2024 11:47:29: Ping gesendet.
+04.10.2024 11:47:34: Ping gesendet.
+04.10.2024 11:47:39: Ping gesendet.
+04.10.2024 11:47:44: Ping gesendet.
+04.10.2024 11:47:49: Ping gesendet.
+04.10.2024 11:47:54: Ping gesendet.
+04.10.2024 11:47:59: Ping gesendet.
+04.10.2024 11:48:04: Ping gesendet.
+04.10.2024 11:48:09: Ping gesendet.
+04.10.2024 11:48:14: Ping gesendet.
+04.10.2024 11:48:19: Ping gesendet.
+04.10.2024 11:48:24: Ping gesendet.
+04.10.2024 11:48:29: Ping gesendet.
+04.10.2024 11:48:34: Ping gesendet.
+04.10.2024 11:48:39: Ping gesendet.
+04.10.2024 11:48:44: Ping gesendet.
+04.10.2024 11:48:49: Ping gesendet.
+04.10.2024 11:48:54: Ping gesendet.
+04.10.2024 11:48:59: Ping gesendet.
+04.10.2024 11:49:04: Ping gesendet.
+04.10.2024 11:49:09: Ping gesendet.
+04.10.2024 11:49:14: Ping gesendet.
+04.10.2024 11:49:19: Ping gesendet.
+04.10.2024 11:49:24: Ping gesendet.
+04.10.2024 11:49:29: Ping gesendet.
+04.10.2024 11:49:34: Ping gesendet.
+04.10.2024 11:49:39: Ping gesendet.
+04.10.2024 11:49:44: Ping gesendet.
+04.10.2024 11:49:49: Ping gesendet.
+04.10.2024 11:49:54: Ping gesendet.
+04.10.2024 11:49:59: Ping gesendet.
+04.10.2024 11:50:04: Ping gesendet.
+04.10.2024 11:50:09: Fehler: Unable to write data to the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+04.10.2024 11:50:50: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 11:50:55: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 11:50:55: Nachricht gesendet: ProjectName: TEST
+04.10.2024 11:50:55: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 11:50:55: Ping gesendet.
+04.10.2024 11:51:00: Ping gesendet.
+04.10.2024 11:51:05: Ping gesendet.
+04.10.2024 11:51:10: Ping gesendet.
+04.10.2024 11:51:15: Ping gesendet.
+04.10.2024 11:51:20: Ping gesendet.
+04.10.2024 11:51:25: Ping gesendet.
+04.10.2024 11:51:30: Ping gesendet.
+04.10.2024 11:51:35: Ping gesendet.
+04.10.2024 11:51:40: Ping gesendet.
+04.10.2024 11:51:45: Ping gesendet.
+04.10.2024 11:51:50: Ping gesendet.
+04.10.2024 11:51:55: Ping gesendet.
+04.10.2024 11:52:00: Ping gesendet.
+04.10.2024 11:52:05: Ping gesendet.
+04.10.2024 11:52:10: Ping gesendet.
+04.10.2024 11:52:15: Ping gesendet.
+04.10.2024 11:52:20: Ping gesendet.
+04.10.2024 11:52:25: Ping gesendet.
+04.10.2024 11:52:30: Ping gesendet.
+04.10.2024 11:52:35: Fehler: Unable to write data to the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+04.10.2024 11:52:42: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 11:52:47: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 11:52:47: Nachricht gesendet: ProjectName: TEST
+04.10.2024 11:52:47: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 11:52:47: Ping gesendet.
+04.10.2024 11:52:52: Ping gesendet.
+04.10.2024 11:52:57: Ping gesendet.
+04.10.2024 11:53:02: Ping gesendet.
+04.10.2024 11:53:07: Ping gesendet.
+04.10.2024 11:53:12: Fehler: Unable to write data to the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+04.10.2024 12:51:18: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 12:51:23: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 12:51:23: Nachricht gesendet: ProjectName: TEST
+04.10.2024 12:51:23: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 12:51:23: Ping gesendet.
+04.10.2024 12:51:28: Ping gesendet.
+04.10.2024 12:51:33: Ping gesendet.
+04.10.2024 12:51:38: Ping gesendet.
+04.10.2024 12:51:43: Ping gesendet.
+04.10.2024 12:51:48: Ping gesendet.
+04.10.2024 12:51:53: Ping gesendet.
+04.10.2024 12:51:58: Ping gesendet.
+04.10.2024 12:52:03: Ping gesendet.
+04.10.2024 12:52:08: Ping gesendet.
+04.10.2024 12:52:13: Ping gesendet.
+04.10.2024 12:52:18: Ping gesendet.
+04.10.2024 12:52:23: Ping gesendet.
+04.10.2024 12:52:28: Ping gesendet.
+04.10.2024 12:52:33: Ping gesendet.
+04.10.2024 12:52:38: Ping gesendet.
+04.10.2024 12:52:43: Ping gesendet.
+04.10.2024 12:52:48: Ping gesendet.
+04.10.2024 12:52:53: Ping gesendet.
+04.10.2024 12:52:58: Ping gesendet.
+04.10.2024 12:53:03: Ping gesendet.
+04.10.2024 12:53:08: Ping gesendet.
+04.10.2024 12:53:13: Ping gesendet.
+04.10.2024 12:53:18: Ping gesendet.
+04.10.2024 12:53:23: Ping gesendet.
+04.10.2024 12:53:28: Ping gesendet.
+04.10.2024 12:53:33: Ping gesendet.
+04.10.2024 12:53:38: Ping gesendet.
+04.10.2024 12:53:43: Ping gesendet.
+04.10.2024 12:53:48: Ping gesendet.
+04.10.2024 12:53:53: Ping gesendet.
+04.10.2024 12:53:58: Ping gesendet.
+04.10.2024 12:54:03: Ping gesendet.
+04.10.2024 12:54:08: Ping gesendet.
+04.10.2024 12:54:13: Ping gesendet.
+04.10.2024 12:54:18: Ping gesendet.
+04.10.2024 12:54:23: Ping gesendet.
+04.10.2024 12:54:28: Ping gesendet.
+04.10.2024 12:54:33: Ping gesendet.
+04.10.2024 12:59:10: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 12:59:15: Nachricht gesendet: IP:172.20.31.55;
+04.10.2024 12:59:15: Nachricht gesendet: ProjectName:TEST;
+04.10.2024 12:59:15: Nachricht gesendet: Email:fernwirktechnik@avantag.energy;
+04.10.2024 12:59:15: Ping gesendet.
+04.10.2024 12:59:20: Ping gesendet.
+04.10.2024 12:59:25: Fehler: Unable to write data to the transport connection: Eine bestehende Verbindung wurde softwaregesteuert
+durch den Hostcomputer abgebrochen..
+04.10.2024 13:04:45: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 13:04:50: Nachricht gesendet: IP:172.20.31.55;
+04.10.2024 13:04:50: Nachricht gesendet: ProjectName:TEST;
+04.10.2024 13:04:50: Nachricht gesendet: Email:fernwirktechnik@avantag.energy;
+04.10.2024 13:04:50: Ping gesendet.
+04.10.2024 13:04:55: Ping gesendet.
+04.10.2024 13:05:00: Fehler: Unable to write data to the transport connection: Eine bestehende Verbindung wurde softwaregesteuert
+durch den Hostcomputer abgebrochen..
+04.10.2024 13:06:23: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 13:06:28: Nachricht gesendet: IP:172.20.31.55;
+04.10.2024 13:06:28: Nachricht gesendet: ProjectName:TEST;
+04.10.2024 13:06:28: Nachricht gesendet: Email:fernwirktechnik@avantag.energy;
+04.10.2024 13:06:28: Ping gesendet.
+04.10.2024 13:06:33: Ping gesendet.
+04.10.2024 13:06:39: Fehler: Unable to write data to the transport connection: Eine bestehende Verbindung wurde softwaregesteuert
+durch den Hostcomputer abgebrochen..
+04.10.2024 13:06:51: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 13:06:56: Nachricht gesendet: IP:172.20.31.55;
+04.10.2024 13:06:56: Nachricht gesendet: ProjectName:TEST;
+04.10.2024 13:06:56: Nachricht gesendet: Email:fernwirktechnik@avantag.energy;
+04.10.2024 13:06:56: Ping gesendet.
+04.10.2024 13:07:01: Ping gesendet.
+04.10.2024 13:07:06: Fehler: Unable to write data to the transport connection: Eine bestehende Verbindung wurde softwaregesteuert
+durch den Hostcomputer abgebrochen..
+04.10.2024 13:08:35: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 13:08:40: Nachricht gesendet: IP:172.20.31.55;
+04.10.2024 13:08:40: Nachricht gesendet: ProjectName:TEST;
+04.10.2024 13:08:40: Nachricht gesendet: Email:fernwirktechnik@avantag.energy;
+04.10.2024 13:08:40: Ping gesendet.
+04.10.2024 13:08:45: Ping gesendet.
+04.10.2024 13:08:50: Ping gesendet.
+04.10.2024 13:08:55: Ping gesendet.
+04.10.2024 13:09:00: Ping gesendet.
+04.10.2024 13:09:05: Ping gesendet.
+04.10.2024 13:09:10: Ping gesendet.
+04.10.2024 13:09:15: Ping gesendet.
+04.10.2024 13:09:20: Ping gesendet.
+04.10.2024 13:09:25: Ping gesendet.
+04.10.2024 13:09:30: Ping gesendet.
+04.10.2024 13:09:35: Ping gesendet.
+04.10.2024 13:09:40: Ping gesendet.
+04.10.2024 13:09:45: Ping gesendet.
+04.10.2024 13:09:50: Ping gesendet.
+04.10.2024 13:09:55: Ping gesendet.
+04.10.2024 13:10:00: Ping gesendet.
+04.10.2024 13:10:05: Ping gesendet.
+04.10.2024 13:10:10: Ping gesendet.
+04.10.2024 13:10:15: Ping gesendet.
+04.10.2024 13:10:20: Ping gesendet.
+04.10.2024 13:10:25: Ping gesendet.
+04.10.2024 13:10:30: Ping gesendet.
+04.10.2024 13:10:35: Ping gesendet.
+04.10.2024 13:10:40: Ping gesendet.
+04.10.2024 13:10:45: Fehler: Unable to write data to the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+04.10.2024 13:11:31: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 13:11:36: Nachricht gesendet: IP:172.20.31.55;
+04.10.2024 13:11:36: Nachricht gesendet: ProjectName:TEST;
+04.10.2024 13:11:36: Nachricht gesendet: Email:fernwirktechnik@avantag.energy;
+04.10.2024 13:11:36: Ping gesendet.
+04.10.2024 13:11:41: Ping gesendet.
+04.10.2024 13:11:46: Ping gesendet.
+04.10.2024 13:11:51: Ping gesendet.
+04.10.2024 13:11:56: Ping gesendet.
+04.10.2024 13:12:02: Ping gesendet.
+04.10.2024 13:12:07: Ping gesendet.
+04.10.2024 13:12:12: Ping gesendet.
+04.10.2024 13:12:17: Ping gesendet.
+04.10.2024 13:12:22: Ping gesendet.
+04.10.2024 13:12:27: Ping gesendet.
+04.10.2024 13:14:30: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 13:14:35: Nachricht gesendet: IP:172.20.31.55;
+04.10.2024 13:14:35: Nachricht gesendet: ProjectName:TEST;
+04.10.2024 13:14:35: Nachricht gesendet: Email:fernwirktechnik@avantag.energy;
+04.10.2024 13:14:35: Ping gesendet.
+04.10.2024 13:14:40: Ping gesendet.
+04.10.2024 13:14:45: Ping gesendet.
+04.10.2024 13:14:50: Ping gesendet.
+04.10.2024 13:14:55: Ping gesendet.
+04.10.2024 13:15:00: Ping gesendet.
+04.10.2024 13:15:05: Ping gesendet.
+04.10.2024 13:15:11: Ping gesendet.
+04.10.2024 13:15:16: Ping gesendet.
+04.10.2024 13:15:21: Ping gesendet.
+04.10.2024 13:15:26: Ping gesendet.
+04.10.2024 13:22:00: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 13:22:05: Nachricht gesendet: IP:172.20.31.55;
+04.10.2024 13:22:05: Nachricht gesendet: ProjectName:TEST;
+04.10.2024 13:22:05: Nachricht gesendet: Email:fernwirktechnik@avantag.energy;
+04.10.2024 13:22:05: Ping gesendet.
+04.10.2024 13:22:10: Ping gesendet.
+04.10.2024 13:22:46: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 13:22:51: Nachricht gesendet: IP:172.20.31.55;
+04.10.2024 13:22:51: Nachricht gesendet: ProjectName:TEST;
+04.10.2024 13:22:51: Nachricht gesendet: Email:fernwirktechnik@avantag.energy;
+04.10.2024 13:22:51: Ping gesendet.
+04.10.2024 13:22:56: Ping gesendet.
+04.10.2024 13:23:11: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 13:31:25: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 13:31:30: Nachricht gesendet: IP:172.20.31.55;
+04.10.2024 13:31:30: Nachricht gesendet: ProjectName:TEST;
+04.10.2024 13:31:30: Nachricht gesendet: Email:fernwirktechnik@avantag.energy;
+04.10.2024 13:31:30: Ping gesendet.
+04.10.2024 13:31:35: Ping gesendet.
+04.10.2024 13:32:23: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 13:32:28: Nachricht gesendet: IP:172.20.31.55;
+04.10.2024 13:32:28: Nachricht gesendet: ProjectName:TEST;
+04.10.2024 13:32:28: Nachricht gesendet: Email:fernwirktechnik@avantag.energy;
+04.10.2024 13:32:28: Ping gesendet.
+04.10.2024 13:32:36: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 13:32:41: Nachricht gesendet: IP:172.20.31.55;
+04.10.2024 13:32:41: Nachricht gesendet: ProjectName:TEST;
+04.10.2024 13:32:41: Nachricht gesendet: Email:fernwirktechnik@avantag.energy;
+04.10.2024 13:32:41: Ping gesendet.
+04.10.2024 13:32:46: Ping gesendet.
+04.10.2024 13:32:51: Ping gesendet.
+04.10.2024 13:33:49: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 13:33:54: Nachricht gesendet: IP:172.20.31.55;
+04.10.2024 13:33:54: Nachricht gesendet: ProjectName:TEST;
+04.10.2024 13:33:54: Nachricht gesendet: Email:fernwirktechnik@avantag.energy;
+04.10.2024 13:33:54: Ping gesendet.
+04.10.2024 13:33:59: Ping gesendet.
+04.10.2024 13:35:49: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 13:35:54: Nachricht gesendet: IP:172.20.31.55;
+04.10.2024 13:35:54: Nachricht gesendet: ProjectName:TEST;
+04.10.2024 13:35:54: Nachricht gesendet: Email:fernwirktechnik@avantag.energy;
+04.10.2024 13:35:54: Ping gesendet.
+04.10.2024 13:36:07: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 13:36:12: Nachricht gesendet: IP:172.20.31.55;
+04.10.2024 13:36:12: Nachricht gesendet: ProjectName:TEST;
+04.10.2024 13:36:12: Nachricht gesendet: Email:fernwirktechnik@avantag.energy;
+04.10.2024 13:36:12: Ping gesendet.
+04.10.2024 13:36:17: Ping gesendet.
+04.10.2024 13:41:21: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 13:41:26: Nachricht gesendet: IP:172.20.31.55;
+04.10.2024 13:41:26: Nachricht gesendet: ProjectName:TEST;
+04.10.2024 13:41:26: Nachricht gesendet: Email:fernwirktechnik@avantag.energy;
+04.10.2024 13:41:26: Ping gesendet.
+04.10.2024 13:41:31: Ping gesendet.
+04.10.2024 13:43:32: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 13:43:38: Nachricht gesendet: IP:172.20.31.55;
+04.10.2024 13:43:38: Nachricht gesendet: ProjectName:TEST;
+04.10.2024 13:43:38: Nachricht gesendet: Email:fernwirktechnik@avantag.energy;
+04.10.2024 13:43:38: Ping gesendet.
+04.10.2024 13:43:43: Ping gesendet.
+04.10.2024 13:43:48: Ping gesendet.
+04.10.2024 13:45:00: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 13:45:05: Nachricht gesendet: IP:172.20.31.55;
+04.10.2024 13:45:05: Nachricht gesendet: ProjectName:TEST;
+04.10.2024 13:45:05: Nachricht gesendet: Email:fernwirktechnik@avantag.energy;
+04.10.2024 13:45:05: Ping gesendet.
+04.10.2024 13:45:10: Ping gesendet.
+04.10.2024 13:45:15: Ping gesendet.
+04.10.2024 13:45:20: Ping gesendet.
+04.10.2024 13:45:25: Ping gesendet.
+04.10.2024 13:45:30: Ping gesendet.
+04.10.2024 13:45:35: Ping gesendet.
+04.10.2024 13:45:40: Ping gesendet.
+04.10.2024 13:45:45: Ping gesendet.
+04.10.2024 13:45:50: Ping gesendet.
+04.10.2024 13:45:55: Ping gesendet.
+04.10.2024 13:46:00: Ping gesendet.
+04.10.2024 13:46:05: Ping gesendet.
+04.10.2024 13:46:10: Ping gesendet.
+04.10.2024 13:46:15: Ping gesendet.
+04.10.2024 13:46:20: Ping gesendet.
+04.10.2024 13:46:25: Ping gesendet.
+04.10.2024 13:46:30: Ping gesendet.
+04.10.2024 13:46:35: Ping gesendet.
+04.10.2024 13:46:40: Ping gesendet.
+04.10.2024 13:46:45: Ping gesendet.
+04.10.2024 13:46:50: Ping gesendet.
+04.10.2024 13:46:55: Ping gesendet.
+04.10.2024 13:47:00: Ping gesendet.
+04.10.2024 13:47:06: Ping gesendet.
+04.10.2024 13:47:11: Ping gesendet.
+04.10.2024 13:47:16: Ping gesendet.
+04.10.2024 13:47:21: Ping gesendet.
+04.10.2024 13:47:26: Fehler: Unable to write data to the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
