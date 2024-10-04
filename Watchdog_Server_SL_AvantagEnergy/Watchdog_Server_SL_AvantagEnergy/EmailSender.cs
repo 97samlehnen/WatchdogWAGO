@@ -10,9 +10,13 @@ namespace Watchdog_Server_SL_AvantagEnergy
     {
         public static async Task SendFailureEmail(WatchdogServer.ClientInfo clientInfo)
         {
+            LogDev("Start des E-Mail-Versandprozesses.");
+
             try
             {
+                LogDev("Lade Client-Informationen aus Datei.");
                 clientInfo = LoadClientInfoFromFile(clientInfo.IP);
+                LogDev("Client-Informationen erfolgreich geladen.");
             }
             catch (Exception ex)
             {
@@ -26,9 +30,11 @@ namespace Watchdog_Server_SL_AvantagEnergy
             string subject = "Client-Ausfallmeldung";
             string body = $"Client {clientInfo.IP} ({clientInfo.ProjectName}) hat sich nicht innerhalb von 15 Sekunden gemeldet.\nZeit: {DateTime.Now}";
             MailMessage message = new MailMessage(from, to, subject, body);
+
+            LogDev("Erstelle SmtpClient.");
             SmtpClient client = new SmtpClient("smtp.web.de")
             {
-                Port = 465, // or 587 for TLS
+                Port = 465, // or 465 for SSL
                 Credentials = new NetworkCredential("avantag.errorlog@web.de", "Avantag123"),
                 EnableSsl = true,
             };
@@ -36,6 +42,7 @@ namespace Watchdog_Server_SL_AvantagEnergy
 
             try
             {
+                LogDev("Sende E-Mail.");
                 await client.SendMailAsync(message);
                 Console.WriteLine("Ausfall-E-Mail gesendet.");
                 LogDev("Ausfall-E-Mail gesendet.");
@@ -46,11 +53,15 @@ namespace Watchdog_Server_SL_AvantagEnergy
                 Console.WriteLine($"Fehler beim Senden der E-Mail: {ex.Message}");
                 LogDev($"Fehler beim Senden der E-Mail: {ex.Message}\n{ex.StackTrace}");
             }
+
+            LogDev("Ende des E-Mail-Versandprozesses.");
         }
 
         private static WatchdogServer.ClientInfo LoadClientInfoFromFile(string ip)
         {
             string filePath = $"C:\\Users\\U23551\\Documents\\GitHub\\WatchdogWAGO\\Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy\\bin\\Debug\\net8.0\\clients\\{ip}.txt";
+            LogDev($"Lade Client-Informationen aus Datei: {filePath}");
+
             if (File.Exists(filePath))
             {
                 var lines = File.ReadAllLines(filePath);
@@ -79,14 +90,19 @@ namespace Watchdog_Server_SL_AvantagEnergy
                         }
                     }
                 }
+
+                LogDev("Client-Informationen erfolgreich aus Datei geladen.");
                 return clientInfo;
             }
+
+            LogDev($"Datei nicht gefunden: {filePath}");
             throw new FileNotFoundException($"Datei nicht gefunden: {filePath}");
         }
 
         private static void LogDev(string message)
         {
             string logMessage = $"{DateTime.Now}: {message}";
+            Console.WriteLine(logMessage);
             File.AppendAllText("server_devlog.txt", logMessage + Environment.NewLine);
         }
 
@@ -94,6 +110,7 @@ namespace Watchdog_Server_SL_AvantagEnergy
         {
             string logFilePath = "logs\\AlarmMailSend.log";
             string logMessage = $"{DateTime.Now}: E-Mail gesendet an {message.To} mit Betreff '{message.Subject}' und Inhalt:\n{message.Body}";
+            Console.WriteLine(logMessage);
             File.AppendAllText(logFilePath, logMessage + Environment.NewLine);
         }
     }

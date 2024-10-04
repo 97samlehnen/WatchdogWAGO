@@ -2660,3 +2660,253 @@ durch den Hostcomputer abgebrochen..
 04.10.2024 13:47:16: Ping gesendet.
 04.10.2024 13:47:21: Ping gesendet.
 04.10.2024 13:47:26: Fehler: Unable to write data to the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+04.10.2024 13:58:28: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 13:58:33: Nachricht gesendet: IP:172.20.31.55;
+04.10.2024 13:58:33: Nachricht gesendet: ProjectName:TEST;
+04.10.2024 13:58:33: Nachricht gesendet: Email:fernwirktechnik@avantag.energy;
+04.10.2024 13:58:33: Ping gesendet.
+04.10.2024 13:58:38: Ping gesendet.
+04.10.2024 14:06:47: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 14:06:52: Nachricht gesendet: IP:172.20.31.55;
+04.10.2024 14:06:52: Nachricht gesendet: ProjectName:TEST;
+04.10.2024 14:06:52: Nachricht gesendet: Email:fernwirktechnik@avantag.energy;
+04.10.2024 14:06:52: Ping gesendet.
+04.10.2024 14:08:05: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 14:08:10: Nachricht gesendet: IP:172.20.31.55;
+04.10.2024 14:08:10: Nachricht gesendet: ProjectName:TEST;
+04.10.2024 14:08:10: Nachricht gesendet: Email:fernwirktechnik@avantag.energy;
+04.10.2024 14:08:10: Ping gesendet.
+04.10.2024 14:30:13: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 14:30:13: Fehler beim Herunterladen der config.txt: The remote server returned an error: (404) Not Found.
+04.10.2024 14:33:39: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 14:33:40: config.txt erfolgreich heruntergeladen.
+04.10.2024 14:33:49: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 14:33:49: config.txt erfolgreich heruntergeladen.
+04.10.2024 14:33:54: Nachricht gesendet: IP:172.20.31.55;
+04.10.2024 14:33:54: Nachricht gesendet: ProjectName:MyProject;
+04.10.2024 14:33:54: Nachricht gesendet: Email:myemail@example.com;
+04.10.2024 14:33:54: Ping gesendet.
+04.10.2024 14:33:59: Ping gesendet.
+04.10.2024 14:34:04: Ping gesendet.
+04.10.2024 14:34:09: Ping gesendet.
+04.10.2024 14:34:14: Ping gesendet.
+04.10.2024 14:34:19: Ping gesendet.
+04.10.2024 14:34:24: Ping gesendet.
+04.10.2024 14:34:29: Ping gesendet.
+04.10.2024 14:34:34: Ping gesendet.
+04.10.2024 14:34:39: Ping gesendet.
+04.10.2024 14:36:41: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 14:36:41: config.txt erfolgreich heruntergeladen.
+04.10.2024 14:36:46: Nachricht gesendet: IP:172.20.31.55;
+04.10.2024 14:36:46: Nachricht gesendet: ProjectName:MyProject;
+04.10.2024 14:36:46: Nachricht gesendet: Email:myemail@example.com;
+04.10.2024 14:36:46: Ping gesendet.
+04.10.2024 14:36:51: Ping gesendet.
+04.10.2024 14:36:56: Ping gesendet.
+04.10.2024 14:37:01: Ping gesendet.
+04.10.2024 14:37:06: Ping gesendet.
+04.10.2024 14:37:28: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 14:37:28: config.txt erfolgreich heruntergeladen.
+04.10.2024 14:37:39: Nachricht gesendet: IP:172.20.31.55;
+04.10.2024 14:37:39: Nachricht gesendet: ProjectName:MyProject;
+04.10.2024 14:37:39: Nachricht gesendet: Email:myemail@example.com;
+04.10.2024 14:37:39: Ping gesendet.
+04.10.2024 14:37:45: Ping gesendet.
+04.10.2024 14:37:50: Ping gesendet.
+04.10.2024 14:37:56: Ping gesendet.
+04.10.2024 14:38:01: Ping gesendet.
+04.10.2024 14:38:06: Ping gesendet.
+04.10.2024 14:39:41: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 14:39:41: config.txt erfolgreich heruntergeladen.
+04.10.2024 14:39:46: Nachricht gesendet: IP:172.20.31.55;
+04.10.2024 14:39:46: Nachricht gesendet: ProjectName:MyProject;
+04.10.2024 14:39:46: Nachricht gesendet: Email:myemail@example.com;
+04.10.2024 14:39:46: Ping gesendet.
+04.10.2024 14:41:19: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 14:41:19: config.txt erfolgreich heruntergeladen.
+04.10.2024 14:41:24: Nachricht gesendet: IP:172.20.31.55;
+04.10.2024 14:41:24: Nachricht gesendet: ProjectName:MyProject;
+04.10.2024 14:41:24: Nachricht gesendet: Email:myemail@example.com;
+04.10.2024 14:41:24: Ping gesendet.
+04.10.2024 14:41:29: Ping gesendet.
+04.10.2024 14:41:34: Fehler: Unable to write data to the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+04.10.2024 14:43:46: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 14:43:46: config.txt erfolgreich heruntergeladen.
+04.10.2024 14:43:51: Nachricht gesendet: IP:172.20.31.55;
+04.10.2024 14:43:51: Nachricht gesendet: ProjectName:MyProject;
+04.10.2024 14:43:51: Nachricht gesendet: Email:myemail@example.com;
+04.10.2024 14:43:51: Ping gesendet.
+04.10.2024 14:43:56: Ping gesendet.
+04.10.2024 14:44:01: Ping gesendet.
+04.10.2024 14:45:09: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 14:45:09: config.txt erfolgreich heruntergeladen.
+04.10.2024 14:45:14: Nachricht gesendet: IP:172.20.31.55;
+04.10.2024 14:45:14: Nachricht gesendet: ProjectName:MyProject;
+04.10.2024 14:45:14: Nachricht gesendet: Email:myemail@example.com;
+04.10.2024 14:45:14: Ping gesendet.
+04.10.2024 14:45:19: Ping gesendet.
+04.10.2024 14:45:24: Ping gesendet.
+04.10.2024 14:45:29: Ping gesendet.
+04.10.2024 14:45:34: Ping gesendet.
+04.10.2024 14:45:39: Ping gesendet.
+04.10.2024 14:45:44: Ping gesendet.
+04.10.2024 14:45:49: Ping gesendet.
+04.10.2024 14:45:54: Ping gesendet.
+04.10.2024 14:45:59: Ping gesendet.
+04.10.2024 14:46:04: Ping gesendet.
+04.10.2024 14:46:09: Ping gesendet.
+04.10.2024 14:46:14: Ping gesendet.
+04.10.2024 14:46:19: Ping gesendet.
+04.10.2024 14:46:24: Ping gesendet.
+04.10.2024 14:46:29: Ping gesendet.
+04.10.2024 14:46:34: Ping gesendet.
+04.10.2024 14:46:39: Ping gesendet.
+04.10.2024 14:46:44: Ping gesendet.
+04.10.2024 14:46:49: Ping gesendet.
+04.10.2024 14:46:54: Ping gesendet.
+04.10.2024 14:46:59: Ping gesendet.
+04.10.2024 14:47:04: Ping gesendet.
+04.10.2024 14:47:09: Ping gesendet.
+04.10.2024 14:47:14: Ping gesendet.
+04.10.2024 14:47:19: Ping gesendet.
+04.10.2024 14:47:24: Ping gesendet.
+04.10.2024 14:47:29: Ping gesendet.
+04.10.2024 14:47:34: Ping gesendet.
+04.10.2024 14:47:39: Ping gesendet.
+04.10.2024 14:47:44: Ping gesendet.
+04.10.2024 14:47:49: Ping gesendet.
+04.10.2024 14:47:54: Ping gesendet.
+04.10.2024 14:47:59: Ping gesendet.
+04.10.2024 14:48:04: Ping gesendet.
+04.10.2024 14:48:09: Ping gesendet.
+04.10.2024 14:48:14: Ping gesendet.
+04.10.2024 14:48:19: Ping gesendet.
+04.10.2024 14:48:24: Ping gesendet.
+04.10.2024 14:48:29: Ping gesendet.
+04.10.2024 14:48:34: Ping gesendet.
+04.10.2024 14:48:39: Ping gesendet.
+04.10.2024 14:48:44: Ping gesendet.
+04.10.2024 14:48:49: Ping gesendet.
+04.10.2024 14:48:54: Ping gesendet.
+04.10.2024 14:48:59: Ping gesendet.
+04.10.2024 14:49:04: Ping gesendet.
+04.10.2024 14:49:09: Ping gesendet.
+04.10.2024 14:49:14: Ping gesendet.
+04.10.2024 14:49:19: Ping gesendet.
+04.10.2024 14:49:24: Ping gesendet.
+04.10.2024 14:50:34: server_ip.txt erfolgreich heruntergeladen.
+04.10.2024 14:50:39: Nachricht gesendet: IP:172.20.31.55;
+04.10.2024 14:50:39: Nachricht gesendet: ProjectName:MyProject;
+04.10.2024 14:50:39: Nachricht gesendet: Email:myemail@example.com;
+04.10.2024 14:50:39: Ping gesendet.
+04.10.2024 14:50:44: Ping gesendet.
+04.10.2024 14:50:49: Ping gesendet.
+04.10.2024 14:50:54: Ping gesendet.
+04.10.2024 14:50:59: Ping gesendet.
+04.10.2024 14:51:04: Ping gesendet.
+04.10.2024 14:51:09: Ping gesendet.
+04.10.2024 14:51:14: Ping gesendet.
+04.10.2024 14:51:19: Ping gesendet.
+04.10.2024 14:51:24: Ping gesendet.
+04.10.2024 14:51:29: Ping gesendet.
+04.10.2024 14:51:34: Ping gesendet.
+04.10.2024 14:51:39: Ping gesendet.
+04.10.2024 14:51:44: Ping gesendet.
+04.10.2024 14:51:49: Ping gesendet.
+04.10.2024 14:51:54: Ping gesendet.
+04.10.2024 14:51:59: Ping gesendet.
+04.10.2024 14:52:04: Ping gesendet.
+04.10.2024 14:52:09: Ping gesendet.
+04.10.2024 14:52:14: Ping gesendet.
+04.10.2024 14:52:19: Ping gesendet.
+04.10.2024 14:52:24: Ping gesendet.
+04.10.2024 14:52:29: Ping gesendet.
+04.10.2024 14:52:34: Ping gesendet.
+04.10.2024 14:52:39: Ping gesendet.
+04.10.2024 14:52:44: Ping gesendet.
+04.10.2024 14:52:49: Ping gesendet.
+04.10.2024 14:52:54: Ping gesendet.
+04.10.2024 14:52:59: Ping gesendet.
+04.10.2024 14:53:04: Ping gesendet.
+04.10.2024 14:53:09: Ping gesendet.
+04.10.2024 14:53:14: Ping gesendet.
+04.10.2024 14:53:19: Ping gesendet.
+04.10.2024 14:53:24: Ping gesendet.
+04.10.2024 14:53:29: Ping gesendet.
+04.10.2024 14:53:34: Ping gesendet.
+04.10.2024 14:53:39: Ping gesendet.
+04.10.2024 14:53:44: Ping gesendet.
+04.10.2024 14:53:49: Ping gesendet.
+04.10.2024 14:53:54: Ping gesendet.
+04.10.2024 14:53:59: Ping gesendet.
+04.10.2024 14:54:04: Ping gesendet.
+04.10.2024 14:54:09: Ping gesendet.
+04.10.2024 14:54:14: Ping gesendet.
+04.10.2024 14:54:19: Ping gesendet.
+04.10.2024 14:54:24: Ping gesendet.
+04.10.2024 14:54:29: Ping gesendet.
+04.10.2024 14:54:34: Ping gesendet.
+04.10.2024 14:54:39: Ping gesendet.
+04.10.2024 14:54:44: Ping gesendet.
+04.10.2024 14:54:49: Ping gesendet.
+04.10.2024 14:54:54: Ping gesendet.
+04.10.2024 14:55:00: Ping gesendet.
+04.10.2024 14:55:05: Ping gesendet.
+04.10.2024 14:55:10: Ping gesendet.
+04.10.2024 14:55:15: Ping gesendet.
+04.10.2024 14:55:20: Ping gesendet.
+04.10.2024 14:55:25: Ping gesendet.
+04.10.2024 14:55:30: Ping gesendet.
+04.10.2024 14:55:35: Ping gesendet.
+04.10.2024 14:55:40: Ping gesendet.
+04.10.2024 14:55:45: Ping gesendet.
+04.10.2024 14:55:50: Ping gesendet.
+04.10.2024 14:55:55: Ping gesendet.
+04.10.2024 14:56:00: Ping gesendet.
+04.10.2024 14:56:05: Ping gesendet.
+04.10.2024 14:56:10: Ping gesendet.
+04.10.2024 14:56:15: Ping gesendet.
+04.10.2024 14:56:20: Ping gesendet.
+04.10.2024 14:56:25: Ping gesendet.
+04.10.2024 14:56:30: Ping gesendet.
+04.10.2024 14:56:35: Ping gesendet.
+04.10.2024 14:56:40: Ping gesendet.
+04.10.2024 14:56:45: Ping gesendet.
+04.10.2024 14:56:50: Ping gesendet.
+04.10.2024 14:56:55: Ping gesendet.
+04.10.2024 14:57:00: Ping gesendet.
+04.10.2024 14:57:05: Ping gesendet.
+04.10.2024 14:57:10: Ping gesendet.
+04.10.2024 14:57:15: Ping gesendet.
+04.10.2024 14:57:20: Ping gesendet.
+04.10.2024 14:57:25: Ping gesendet.
+04.10.2024 14:57:30: Ping gesendet.
+04.10.2024 14:57:35: Ping gesendet.
+04.10.2024 14:57:40: Ping gesendet.
+04.10.2024 14:57:45: Ping gesendet.
+04.10.2024 14:57:50: Ping gesendet.
+04.10.2024 14:57:55: Ping gesendet.
+04.10.2024 14:58:00: Ping gesendet.
+04.10.2024 14:58:05: Ping gesendet.
+04.10.2024 14:58:10: Ping gesendet.
+04.10.2024 14:58:15: Ping gesendet.
+04.10.2024 14:58:20: Ping gesendet.
+04.10.2024 14:58:25: Ping gesendet.
+04.10.2024 14:58:30: Ping gesendet.
+04.10.2024 14:58:35: Ping gesendet.
+04.10.2024 14:58:40: Ping gesendet.
+04.10.2024 14:58:45: Ping gesendet.
+04.10.2024 14:58:50: Ping gesendet.
+04.10.2024 14:58:55: Ping gesendet.
+04.10.2024 14:59:00: Ping gesendet.
+04.10.2024 14:59:05: Ping gesendet.
+04.10.2024 14:59:10: Ping gesendet.
+04.10.2024 14:59:15: Ping gesendet.
+04.10.2024 14:59:20: Ping gesendet.
+04.10.2024 14:59:25: Ping gesendet.
+04.10.2024 14:59:30: Ping gesendet.
+04.10.2024 14:59:35: Ping gesendet.
+04.10.2024 14:59:40: Ping gesendet.
+04.10.2024 14:59:45: Ping gesendet.
+04.10.2024 14:59:50: Ping gesendet.
+04.10.2024 14:59:55: Ping gesendet.

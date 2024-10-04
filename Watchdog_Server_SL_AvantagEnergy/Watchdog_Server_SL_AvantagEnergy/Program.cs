@@ -29,12 +29,16 @@ namespace Watchdog_Server_SL_AvantagEnergy
             IPAddress localAddr = GetLocalIPAddress();
             TcpListener server = new TcpListener(localAddr, Port);
             server.Start();
+            Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine($"----------------------- {Firma} -----------------------");
             Console.WriteLine($"Watchdog Server läuft auf IP {localAddr} und Port {Port}...");
             Console.WriteLine($"Watchdog Server Version: {Version}");
             Console.WriteLine($"---------------------------- {DEV} ----------------------------");
             Console.WriteLine(" ######### START LOGGING ");
+            Console.ResetColor();
+            Console.ForegroundColor = ConsoleColor.Green;
             LogDev($"Watchdog Server gestartet auf IP {localAddr} und Port {Port}");
+            Console.ResetColor();
             Console.WriteLine("Nach LogDev-Aufruf");
 
             Thread serverThread = new Thread(() =>
@@ -112,7 +116,9 @@ namespace Watchdog_Server_SL_AvantagEnergy
                     // Empfang der Daten
                     bytesRead = stream.Read(buffer, 0, buffer.Length);
                     string receivedData = Encoding.ASCII.GetString(buffer, 0, bytesRead).Trim();
+                    Console.ForegroundColor = ConsoleColor.Blue;
                     Console.WriteLine($">Empfangene Daten: {receivedData}");
+                    Console.ResetColor();
                     LogDev($">Empfangene Daten: {receivedData}");
 
                     // Daten parsen
@@ -135,10 +141,11 @@ namespace Watchdog_Server_SL_AvantagEnergy
 
                     // Initialisierung der LastActivity
                     clientInfo.LastActivity = DateTime.Now;
-
+                    Console.ForegroundColor = ConsoleColor.Green;
                     Console.WriteLine($">Empfangene IP-Adresse: {clientInfo.IP}");
                     Console.WriteLine($">Empfangener Projektname: {clientInfo.ProjectName}");
                     Console.WriteLine($">Empfangene E-Mail-Adresse: {clientInfo.Email}");
+                    Console.ResetColor();
                     LogDev($">Empfangene IP-Adresse: {clientInfo.IP}");
                     LogDev($">Empfangener Projektname: {clientInfo.ProjectName}");
                     LogDev($">Empfangene E-Mail-Adresse: {clientInfo.Email}");
@@ -155,7 +162,9 @@ namespace Watchdog_Server_SL_AvantagEnergy
                         string message = Encoding.ASCII.GetString(buffer, 0, bytesRead).Trim();
                         if (message == clientInfo.ProjectName) // Überprüfung der Ping-Nachricht
                         {
+                            Console.ForegroundColor = ConsoleColor.Magenta;
                             Console.WriteLine($">Ping von {clientInfo.IP} empfangen.");
+                            Console.ResetColor();
                             LogDev($">Ping von {clientInfo.IP} empfangen.");
                         }
                         else
@@ -169,7 +178,9 @@ namespace Watchdog_Server_SL_AvantagEnergy
                 }
                 catch (IOException ex) when (ex.InnerException is SocketException socketEx && socketEx.SocketErrorCode == SocketError.ConnectionReset)
                 {
+                    Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("Client Verbindung verloren.");
+                    Console.ResetColor();
                     LogDev("Client Verbindung verloren.");
                 }
                 catch (Exception ex)

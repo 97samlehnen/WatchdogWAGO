@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using System.Net;
 using System.Net.Sockets;
 using System.Text;
 using System.Threading;
@@ -12,10 +13,29 @@ class WatchdogClient
     private static string ProjectName;
     private static string Email;
     private static bool DevMode;
+    private static String Version;
+    private static String DEV;
+    private static String Firma;
 
     static void Main(string[] args)
     {
+        Version = "0.0.2";
+        DEV = "Simeon Lehnen";
+        Firma = "Avantag Energy S.á.r.l.";
+
+        // Setze die Textfarbe auf Gelb
+        Console.ForegroundColor = ConsoleColor.Yellow;
+        Console.WriteLine($"----------------------- {Firma} -----------------------");
+        Console.WriteLine($"Verbinde mit Watchdog Server...");
+        Console.WriteLine($"Watchdog Client Version: {Version}");
+        Console.WriteLine($"---------------------------- {DEV} ----------------------------");
+        Console.WriteLine(" ######### ");
+        // Setze die Textfarbe zurück
+        Console.ResetColor();
+
+        // Restlicher Code...
         UpdateServer.DownloadServerIP();
+        //UpdateServer.DownloadClientConfig(); 
         LoadConfig();
         CountdownAndConnect();
     }
@@ -35,6 +55,8 @@ class WatchdogClient
             using (TcpClient client = new TcpClient(ServerIP, ServerPort))
             {
                 NetworkStream stream = client.GetStream();
+                // Setze die Textfarbe auf Grün
+                Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine("Verbunden mit dem Watchdog-Server.");
                 // Senden der IP-Adresse 
                 SendMessage(stream, "IP", ClientIP);
@@ -42,13 +64,18 @@ class WatchdogClient
                 SendMessage(stream, "ProjectName", ProjectName);
                 // Senden der E-Mail-Adresse 
                 SendMessage(stream, "Email", Email);
+                // Setze die Textfarbe zurück
+                Console.ResetColor();
+
                 // Senden von Pings 
                 while (true)
                 {
-                    string pingMessage =  ProjectName; // Ping-Nachricht
+                    string pingMessage = ProjectName; // Ping-Nachricht
                     byte[] pingData = Encoding.ASCII.GetBytes(pingMessage);
                     stream.Write(pingData, 0, pingData.Length);
+                    Console.ForegroundColor = ConsoleColor.Magenta;
                     Console.WriteLine("Ping gesendet.");
+                    Console.ResetColor();
                     LogDev("Ping gesendet.");
                     Thread.Sleep(5000); // Alle 5 Sekunden einen Ping senden 
                 }
@@ -69,7 +96,6 @@ class WatchdogClient
         Console.WriteLine($"Nachricht gesendet: {message}");
         LogDev($"Nachricht gesendet: {message}");
     }
-
 
     private static void LoadConfig()
     {
