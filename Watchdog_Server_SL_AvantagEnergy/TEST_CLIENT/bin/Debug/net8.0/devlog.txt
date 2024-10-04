@@ -1383,3 +1383,911 @@ durch den Hostcomputer abgebrochen..
 02.10.2024 13:32:54: Nachricht gesendet: TEST
 02.10.2024 13:32:54: Nachricht gesendet: fernwirktechnik@avantag.energy
 02.10.2024 13:32:54: Ping gesendet.
+03.10.2024 08:25:11: Nachricht gesendet: 172.20.31.55
+03.10.2024 08:25:11: Nachricht gesendet: TEST
+03.10.2024 08:25:11: Nachricht gesendet: fernwirktechnik@avantag.energy
+03.10.2024 08:25:11: Ping gesendet.
+03.10.2024 08:25:17: Nachricht gesendet: 172.20.31.55
+03.10.2024 08:25:17: Nachricht gesendet: TEST
+03.10.2024 08:25:17: Nachricht gesendet: fernwirktechnik@avantag.energy
+03.10.2024 08:25:17: Ping gesendet.
+03.10.2024 08:25:22: Ping gesendet.
+03.10.2024 08:25:27: Ping gesendet.
+03.10.2024 08:25:32: Ping gesendet.
+03.10.2024 08:25:37: Ping gesendet.
+03.10.2024 08:25:42: Ping gesendet.
+03.10.2024 08:25:47: Ping gesendet.
+03.10.2024 08:25:52: Ping gesendet.
+03.10.2024 08:25:57: Ping gesendet.
+03.10.2024 08:26:02: Ping gesendet.
+03.10.2024 08:26:07: Ping gesendet.
+03.10.2024 08:26:12: Ping gesendet.
+03.10.2024 08:26:17: Ping gesendet.
+03.10.2024 08:26:22: Ping gesendet.
+03.10.2024 08:26:27: Ping gesendet.
+03.10.2024 08:26:32: Ping gesendet.
+03.10.2024 08:26:37: Ping gesendet.
+03.10.2024 08:26:42: Ping gesendet.
+03.10.2024 08:26:47: Ping gesendet.
+03.10.2024 08:26:52: Ping gesendet.
+03.10.2024 08:26:57: Ping gesendet.
+03.10.2024 08:27:02: Ping gesendet.
+03.10.2024 08:27:07: Ping gesendet.
+03.10.2024 08:27:12: Ping gesendet.
+03.10.2024 08:27:17: Ping gesendet.
+03.10.2024 08:27:22: Ping gesendet.
+03.10.2024 08:27:27: Ping gesendet.
+03.10.2024 08:27:32: Ping gesendet.
+03.10.2024 08:27:37: Ping gesendet.
+03.10.2024 08:27:42: Ping gesendet.
+03.10.2024 08:27:47: Ping gesendet.
+03.10.2024 08:27:52: Ping gesendet.
+03.10.2024 08:27:57: Ping gesendet.
+03.10.2024 08:28:03: Ping gesendet.
+03.10.2024 08:28:08: Ping gesendet.
+03.10.2024 08:30:41: Nachricht gesendet: 172.20.31.55
+03.10.2024 08:30:41: Nachricht gesendet: TEST
+03.10.2024 08:30:41: Nachricht gesendet: fernwirktechnik@avantag.energy
+03.10.2024 08:30:41: Ping gesendet.
+03.10.2024 08:30:46: Ping gesendet.
+03.10.2024 08:30:51: Ping gesendet.
+03.10.2024 08:30:56: Ping gesendet.
+03.10.2024 08:31:01: Ping gesendet.
+03.10.2024 08:31:06: Ping gesendet.
+03.10.2024 08:31:11: Ping gesendet.
+03.10.2024 08:31:16: Ping gesendet.
+03.10.2024 08:31:21: Ping gesendet.
+03.10.2024 08:31:26: Ping gesendet.
+03.10.2024 08:31:31: Fehler: Unable to write data to the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+03.10.2024 08:33:20: Nachricht gesendet: 172.20.31.55
+03.10.2024 08:33:20: Nachricht gesendet: TEST
+03.10.2024 08:33:20: Nachricht gesendet: fernwirktechnik@avantag.energy
+03.10.2024 08:33:20: Ping gesendet.
+03.10.2024 08:33:25: Ping gesendet.
+03.10.2024 08:35:25: Nachricht gesendet: 172.20.31.55
+03.10.2024 08:35:25: Nachricht gesendet: TEST
+03.10.2024 08:35:25: Nachricht gesendet: fernwirktechnik@avantag.energy
+03.10.2024 08:35:25: Ping gesendet.
+03.10.2024 08:35:30: Ping gesendet.
+03.10.2024 08:38:15: Nachricht gesendet: 172.20.31.55
+03.10.2024 08:38:15: Nachricht gesendet: TEST
+03.10.2024 08:38:15: Nachricht gesendet: fernwirktechnik@avantag.energy
+03.10.2024 08:38:15: Ping gesendet.
+03.10.2024 08:38:20: Ping gesendet.
+03.10.2024 08:38:25: Ping gesendet.
+03.10.2024 08:38:30: Ping gesendet.
+03.10.2024 08:38:35: Ping gesendet.
+03.10.2024 08:38:40: Ping gesendet.
+03.10.2024 08:38:45: Ping gesendet.
+03.10.2024 08:38:50: Fehler: Unable to write data to the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+03.10.2024 08:39:08: Nachricht gesendet: 172.20.31.55
+03.10.2024 08:39:08: Nachricht gesendet: TEST
+03.10.2024 08:39:08: Nachricht gesendet: fernwirktechnik@avantag.energy
+03.10.2024 08:39:08: Ping gesendet.
+03.10.2024 08:39:13: Ping gesendet.
+03.10.2024 08:41:49: Nachricht gesendet: 172.20.31.55
+03.10.2024 08:41:49: Nachricht gesendet: TEST
+03.10.2024 08:41:49: Nachricht gesendet: fernwirktechnik@avantag.energy
+03.10.2024 08:41:49: Ping gesendet.
+03.10.2024 08:44:20: Nachricht gesendet: 172.20.31.55
+03.10.2024 08:44:20: Nachricht gesendet: TEST
+03.10.2024 08:44:20: Nachricht gesendet: fernwirktechnik@avantag.energy
+03.10.2024 08:44:20: Ping gesendet.
+03.10.2024 13:19:15: Nachricht gesendet: 172.20.31.55
+03.10.2024 13:19:15: Nachricht gesendet: TEST
+03.10.2024 13:19:15: Nachricht gesendet: fernwirktechnik@avantag.energy
+03.10.2024 13:19:15: Ping gesendet.
+03.10.2024 13:19:20: Ping gesendet.
+03.10.2024 13:19:25: Ping gesendet.
+03.10.2024 13:19:30: Ping gesendet.
+03.10.2024 13:19:34: Nachricht gesendet: 172.20.31.55
+03.10.2024 13:19:34: Nachricht gesendet: TEST
+03.10.2024 13:19:34: Nachricht gesendet: fernwirktechnik@avantag.energy
+03.10.2024 13:19:34: Ping gesendet.
+04.10.2024 09:02:59: Nachricht gesendet: 172.20.31.55
+04.10.2024 09:02:59: Nachricht gesendet: TEST
+04.10.2024 09:02:59: Nachricht gesendet: fernwirktechnik@avantag.energy
+04.10.2024 09:02:59: Ping gesendet.
+04.10.2024 09:03:04: Ping gesendet.
+04.10.2024 09:03:09: Ping gesendet.
+04.10.2024 09:03:14: Ping gesendet.
+04.10.2024 09:03:19: Ping gesendet.
+04.10.2024 09:03:24: Ping gesendet.
+04.10.2024 09:03:29: Ping gesendet.
+04.10.2024 09:03:34: Ping gesendet.
+04.10.2024 09:03:39: Ping gesendet.
+04.10.2024 09:03:44: Ping gesendet.
+04.10.2024 09:03:49: Ping gesendet.
+04.10.2024 09:03:54: Ping gesendet.
+04.10.2024 09:03:59: Ping gesendet.
+04.10.2024 09:04:04: Ping gesendet.
+04.10.2024 09:04:09: Ping gesendet.
+04.10.2024 09:04:14: Ping gesendet.
+04.10.2024 09:04:19: Ping gesendet.
+04.10.2024 09:04:24: Ping gesendet.
+04.10.2024 09:04:29: Ping gesendet.
+04.10.2024 09:04:34: Ping gesendet.
+04.10.2024 09:04:39: Ping gesendet.
+04.10.2024 09:04:44: Ping gesendet.
+04.10.2024 09:04:49: Ping gesendet.
+04.10.2024 09:04:54: Ping gesendet.
+04.10.2024 09:04:59: Ping gesendet.
+04.10.2024 09:05:04: Ping gesendet.
+04.10.2024 09:06:23: Nachricht gesendet: 172.20.31.55
+04.10.2024 09:06:23: Nachricht gesendet: TEST
+04.10.2024 09:06:23: Nachricht gesendet: fernwirktechnik@avantag.energy
+04.10.2024 09:06:23: Ping gesendet.
+04.10.2024 09:06:28: Ping gesendet.
+04.10.2024 09:06:33: Ping gesendet.
+04.10.2024 09:06:38: Ping gesendet.
+04.10.2024 09:06:43: Ping gesendet.
+04.10.2024 09:06:48: Ping gesendet.
+04.10.2024 09:06:53: Ping gesendet.
+04.10.2024 09:09:54: Nachricht gesendet: 172.20.31.55
+04.10.2024 09:09:54: Nachricht gesendet: TEST
+04.10.2024 09:09:54: Nachricht gesendet: fernwirktechnik@avantag.energy
+04.10.2024 09:09:54: Ping gesendet.
+04.10.2024 09:11:42: Nachricht gesendet: 172.20.31.55
+04.10.2024 09:11:42: Nachricht gesendet: TEST
+04.10.2024 09:11:42: Nachricht gesendet: fernwirktechnik@avantag.energy
+04.10.2024 09:11:42: Ping gesendet.
+04.10.2024 09:11:47: Nachricht gesendet: 172.20.31.55
+04.10.2024 09:11:47: Nachricht gesendet: TEST
+04.10.2024 09:11:47: Nachricht gesendet: fernwirktechnik@avantag.energy
+04.10.2024 09:11:47: Ping gesendet.
+04.10.2024 09:11:52: Ping gesendet.
+04.10.2024 09:11:57: Ping gesendet.
+04.10.2024 09:15:10: Nachricht gesendet: 172.20.31.55
+04.10.2024 09:15:10: Nachricht gesendet: TEST
+04.10.2024 09:15:10: Nachricht gesendet: fernwirktechnik@avantag.energy
+04.10.2024 09:15:10: Ping gesendet.
+04.10.2024 09:24:21: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 09:24:21: Nachricht gesendet: ProjectName: TEST
+04.10.2024 09:24:21: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 09:24:21: Ping gesendet.
+04.10.2024 09:24:26: Ping gesendet.
+04.10.2024 09:24:31: Ping gesendet.
+04.10.2024 09:24:36: Ping gesendet.
+04.10.2024 09:24:41: Ping gesendet.
+04.10.2024 09:24:46: Ping gesendet.
+04.10.2024 09:24:51: Ping gesendet.
+04.10.2024 09:27:45: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 09:27:45: Nachricht gesendet: ProjectName: TEST
+04.10.2024 09:27:45: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 09:27:45: Ping gesendet.
+04.10.2024 09:27:50: Ping gesendet.
+04.10.2024 09:27:55: Ping gesendet.
+04.10.2024 09:28:00: Ping gesendet.
+04.10.2024 09:28:05: Ping gesendet.
+04.10.2024 09:28:10: Ping gesendet.
+04.10.2024 09:28:10: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 09:28:10: Nachricht gesendet: ProjectName: TEST
+04.10.2024 09:28:10: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 09:28:10: Ping gesendet.
+04.10.2024 09:28:11: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 09:28:11: Nachricht gesendet: ProjectName: TEST
+04.10.2024 09:28:11: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 09:28:11: Ping gesendet.
+04.10.2024 09:28:11: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 09:28:11: Nachricht gesendet: ProjectName: TEST
+04.10.2024 09:28:11: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 09:28:11: Ping gesendet.
+04.10.2024 09:28:11: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 09:28:11: Nachricht gesendet: ProjectName: TEST
+04.10.2024 09:28:11: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 09:28:11: Ping gesendet.
+04.10.2024 09:28:12: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 09:28:12: Nachricht gesendet: ProjectName: TEST
+04.10.2024 09:28:12: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 09:28:12: Ping gesendet.
+04.10.2024 09:28:12: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 09:28:12: Nachricht gesendet: ProjectName: TEST
+04.10.2024 09:28:12: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 09:28:12: Ping gesendet.
+04.10.2024 09:28:15: Ping gesendet.
+04.10.2024 09:28:15: Ping gesendet.
+04.10.2024 09:28:16: Ping gesendet.
+04.10.2024 09:28:16: Ping gesendet.
+04.10.2024 09:28:16: Ping gesendet.
+04.10.2024 09:28:17: Ping gesendet.
+04.10.2024 09:28:17: Ping gesendet.
+04.10.2024 09:28:20: Ping gesendet.
+04.10.2024 09:28:20: Ping gesendet.
+04.10.2024 09:31:27: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 09:31:27: Nachricht gesendet: ProjectName: TEST
+04.10.2024 09:31:27: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 09:31:27: Ping gesendet.
+04.10.2024 09:31:40: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 09:31:40: Nachricht gesendet: ProjectName: TEST
+04.10.2024 09:31:40: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 09:31:40: Ping gesendet.
+04.10.2024 09:31:45: Ping gesendet.
+04.10.2024 09:31:50: Ping gesendet.
+04.10.2024 09:33:24: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 09:33:24: Nachricht gesendet: ProjectName: TEST
+04.10.2024 09:33:24: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 09:33:24: Ping gesendet.
+04.10.2024 09:33:29: Ping gesendet.
+04.10.2024 09:35:48: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 09:35:48: Nachricht gesendet: ProjectName: TEST
+04.10.2024 09:35:48: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 09:35:48: Ping gesendet.
+04.10.2024 09:35:52: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 09:35:52: Nachricht gesendet: ProjectName: TEST
+04.10.2024 09:35:52: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 09:35:52: Ping gesendet.
+04.10.2024 09:35:57: Ping gesendet.
+04.10.2024 09:36:02: Ping gesendet.
+04.10.2024 09:36:07: Ping gesendet.
+04.10.2024 09:36:12: Ping gesendet.
+04.10.2024 09:36:17: Ping gesendet.
+04.10.2024 09:36:22: Ping gesendet.
+04.10.2024 09:36:27: Ping gesendet.
+04.10.2024 09:36:32: Ping gesendet.
+04.10.2024 09:36:37: Ping gesendet.
+04.10.2024 09:36:42: Ping gesendet.
+04.10.2024 09:36:47: Ping gesendet.
+04.10.2024 09:37:42: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 09:37:42: Nachricht gesendet: ProjectName: TEST
+04.10.2024 09:37:42: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 09:37:42: Ping gesendet.
+04.10.2024 09:37:47: Ping gesendet.
+04.10.2024 09:37:52: Ping gesendet.
+04.10.2024 09:37:57: Ping gesendet.
+04.10.2024 09:38:02: Ping gesendet.
+04.10.2024 09:38:21: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 09:38:21: Nachricht gesendet: ProjectName: TEST
+04.10.2024 09:38:21: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 09:38:21: Ping gesendet.
+04.10.2024 09:38:26: Ping gesendet.
+04.10.2024 09:42:11: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 09:42:11: Nachricht gesendet: ProjectName: TEST
+04.10.2024 09:42:11: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 09:42:11: Ping gesendet.
+04.10.2024 09:42:16: Ping gesendet.
+04.10.2024 09:42:20: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 09:42:20: Nachricht gesendet: ProjectName: TEST
+04.10.2024 09:42:20: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 09:42:20: Ping gesendet.
+04.10.2024 09:42:25: Ping gesendet.
+04.10.2024 09:42:31: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 09:42:31: Nachricht gesendet: ProjectName: TEST
+04.10.2024 09:42:31: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 09:42:31: Ping gesendet.
+04.10.2024 09:42:34: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 09:42:34: Nachricht gesendet: ProjectName: TEST
+04.10.2024 09:42:34: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 09:42:34: Ping gesendet.
+04.10.2024 09:42:36: Ping gesendet.
+04.10.2024 09:42:41: Ping gesendet.
+04.10.2024 09:42:46: Ping gesendet.
+04.10.2024 09:42:51: Fehler: Unable to write data to the transport connection: Eine bestehende Verbindung wurde softwaregesteuert
+durch den Hostcomputer abgebrochen..
+04.10.2024 09:44:08: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 09:44:08: Nachricht gesendet: ProjectName: TEST
+04.10.2024 09:44:08: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 09:44:08: Ping gesendet.
+04.10.2024 09:44:13: Ping gesendet.
+04.10.2024 09:44:18: Ping gesendet.
+04.10.2024 09:44:24: Ping gesendet.
+04.10.2024 09:44:29: Fehler: Unable to write data to the transport connection: Eine bestehende Verbindung wurde softwaregesteuert
+durch den Hostcomputer abgebrochen..
+04.10.2024 09:45:57: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 09:45:57: Nachricht gesendet: ProjectName: TEST
+04.10.2024 09:45:57: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 09:45:57: Ping gesendet.
+04.10.2024 09:46:02: Ping gesendet.
+04.10.2024 09:46:07: Ping gesendet.
+04.10.2024 09:46:12: Ping gesendet.
+04.10.2024 09:46:17: Fehler: Unable to write data to the transport connection: Eine bestehende Verbindung wurde softwaregesteuert
+durch den Hostcomputer abgebrochen..
+04.10.2024 09:47:13: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 09:47:13: Nachricht gesendet: ProjectName: TEST
+04.10.2024 09:47:13: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 09:47:13: Ping gesendet.
+04.10.2024 09:47:18: Ping gesendet.
+04.10.2024 09:47:23: Ping gesendet.
+04.10.2024 09:47:28: Ping gesendet.
+04.10.2024 09:47:33: Ping gesendet.
+04.10.2024 09:47:38: Ping gesendet.
+04.10.2024 09:47:43: Fehler: Unable to write data to the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+04.10.2024 09:47:59: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 09:47:59: Nachricht gesendet: ProjectName: TEST
+04.10.2024 09:47:59: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 09:47:59: Ping gesendet.
+04.10.2024 09:48:04: Ping gesendet.
+04.10.2024 09:48:09: Ping gesendet.
+04.10.2024 09:48:14: Ping gesendet.
+04.10.2024 09:48:19: Ping gesendet.
+04.10.2024 09:48:24: Ping gesendet.
+04.10.2024 09:48:29: Ping gesendet.
+04.10.2024 09:48:34: Ping gesendet.
+04.10.2024 09:48:39: Ping gesendet.
+04.10.2024 09:48:44: Ping gesendet.
+04.10.2024 09:48:49: Ping gesendet.
+04.10.2024 09:48:54: Ping gesendet.
+04.10.2024 09:48:59: Ping gesendet.
+04.10.2024 09:49:04: Ping gesendet.
+04.10.2024 09:49:09: Fehler: Unable to write data to the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+04.10.2024 10:01:37: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 10:01:37: Nachricht gesendet: ProjectName: TEST
+04.10.2024 10:01:37: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 10:01:37: Ping gesendet.
+04.10.2024 10:01:42: Ping gesendet.
+04.10.2024 10:01:47: Ping gesendet.
+04.10.2024 10:01:52: Ping gesendet.
+04.10.2024 10:01:57: Ping gesendet.
+04.10.2024 10:02:02: Ping gesendet.
+04.10.2024 10:02:07: Ping gesendet.
+04.10.2024 10:02:12: Ping gesendet.
+04.10.2024 10:02:17: Ping gesendet.
+04.10.2024 10:02:22: Fehler: Unable to write data to the transport connection: Eine vorhandene Verbindung wurde vom Remotehost geschlossen..
+04.10.2024 10:03:35: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 10:03:35: Nachricht gesendet: ProjectName: TEST
+04.10.2024 10:03:35: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 10:03:35: Ping gesendet.
+04.10.2024 10:03:40: Ping gesendet.
+04.10.2024 10:03:45: Ping gesendet.
+04.10.2024 10:03:50: Ping gesendet.
+04.10.2024 10:04:39: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 10:04:39: Nachricht gesendet: ProjectName: TEST
+04.10.2024 10:04:39: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 10:04:39: Ping gesendet.
+04.10.2024 10:04:44: Ping gesendet.
+04.10.2024 10:04:49: Ping gesendet.
+04.10.2024 10:04:54: Ping gesendet.
+04.10.2024 10:10:24: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 10:10:24: Nachricht gesendet: ProjectName: TEST
+04.10.2024 10:10:24: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 10:10:24: Ping gesendet.
+04.10.2024 10:10:29: Ping gesendet.
+04.10.2024 10:10:34: Ping gesendet.
+04.10.2024 10:10:39: Ping gesendet.
+04.10.2024 10:10:44: Ping gesendet.
+04.10.2024 10:10:49: Ping gesendet.
+04.10.2024 10:10:54: Ping gesendet.
+04.10.2024 10:10:59: Ping gesendet.
+04.10.2024 10:11:04: Ping gesendet.
+04.10.2024 10:11:09: Ping gesendet.
+04.10.2024 10:11:14: Ping gesendet.
+04.10.2024 10:11:23: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 10:11:23: Nachricht gesendet: ProjectName: TEST
+04.10.2024 10:11:23: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 10:11:23: Ping gesendet.
+04.10.2024 10:11:28: Ping gesendet.
+04.10.2024 10:11:33: Ping gesendet.
+04.10.2024 10:11:38: Ping gesendet.
+04.10.2024 10:11:43: Ping gesendet.
+04.10.2024 10:11:48: Ping gesendet.
+04.10.2024 10:11:53: Ping gesendet.
+04.10.2024 10:11:58: Ping gesendet.
+04.10.2024 10:12:03: Ping gesendet.
+04.10.2024 10:12:08: Ping gesendet.
+04.10.2024 10:12:13: Ping gesendet.
+04.10.2024 10:12:18: Ping gesendet.
+04.10.2024 10:12:23: Ping gesendet.
+04.10.2024 10:12:28: Ping gesendet.
+04.10.2024 10:12:33: Ping gesendet.
+04.10.2024 10:12:38: Ping gesendet.
+04.10.2024 10:12:43: Ping gesendet.
+04.10.2024 10:12:48: Ping gesendet.
+04.10.2024 10:12:54: Ping gesendet.
+04.10.2024 10:12:59: Ping gesendet.
+04.10.2024 10:13:04: Ping gesendet.
+04.10.2024 10:13:09: Ping gesendet.
+04.10.2024 10:13:14: Ping gesendet.
+04.10.2024 10:13:19: Ping gesendet.
+04.10.2024 10:13:24: Ping gesendet.
+04.10.2024 10:13:29: Ping gesendet.
+04.10.2024 10:13:34: Ping gesendet.
+04.10.2024 10:13:39: Ping gesendet.
+04.10.2024 10:13:44: Ping gesendet.
+04.10.2024 10:13:49: Ping gesendet.
+04.10.2024 10:13:54: Ping gesendet.
+04.10.2024 10:13:59: Ping gesendet.
+04.10.2024 10:14:04: Ping gesendet.
+04.10.2024 10:14:09: Ping gesendet.
+04.10.2024 10:14:14: Ping gesendet.
+04.10.2024 10:14:19: Ping gesendet.
+04.10.2024 10:14:24: Ping gesendet.
+04.10.2024 10:14:29: Ping gesendet.
+04.10.2024 10:14:34: Ping gesendet.
+04.10.2024 10:14:39: Ping gesendet.
+04.10.2024 10:14:44: Ping gesendet.
+04.10.2024 10:15:46: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 10:15:46: Nachricht gesendet: ProjectName: TEST
+04.10.2024 10:15:46: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 10:15:46: Ping gesendet.
+04.10.2024 10:15:51: Ping gesendet.
+04.10.2024 10:15:56: Ping gesendet.
+04.10.2024 10:16:01: Ping gesendet.
+04.10.2024 10:16:06: Fehler: Unable to write data to the transport connection: Eine bestehende Verbindung wurde softwaregesteuert
+durch den Hostcomputer abgebrochen..
+04.10.2024 10:16:47: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 10:16:47: Nachricht gesendet: ProjectName: TEST
+04.10.2024 10:16:47: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 10:16:47: Ping gesendet.
+04.10.2024 10:16:52: Ping gesendet.
+04.10.2024 10:16:57: Ping gesendet.
+04.10.2024 10:17:46: Nachricht gesendet: IP: 172.20.31.55
+04.10.2024 10:17:46: Nachricht gesendet: ProjectName: TEST
+04.10.2024 10:17:46: Nachricht gesendet: Email: fernwirktechnik@avantag.energy
+04.10.2024 10:17:46: Ping gesendet.
+04.10.2024 10:17:51: Ping gesendet.
+04.10.2024 10:17:56: Ping gesendet.
+04.10.2024 10:18:01: Ping gesendet.
+04.10.2024 10:18:06: Ping gesendet.
+04.10.2024 10:18:11: Ping gesendet.
+04.10.2024 10:18:16: Ping gesendet.
+04.10.2024 10:18:21: Ping gesendet.
+04.10.2024 10:18:26: Ping gesendet.
+04.10.2024 10:18:31: Ping gesendet.
+04.10.2024 10:18:36: Ping gesendet.
+04.10.2024 10:18:41: Ping gesendet.
+04.10.2024 10:18:46: Ping gesendet.
+04.10.2024 10:18:51: Ping gesendet.
+04.10.2024 10:18:56: Ping gesendet.
+04.10.2024 10:19:01: Ping gesendet.
+04.10.2024 10:19:06: Ping gesendet.
+04.10.2024 10:19:11: Ping gesendet.
+04.10.2024 10:19:16: Ping gesendet.
+04.10.2024 10:19:21: Ping gesendet.
+04.10.2024 10:19:26: Ping gesendet.
+04.10.2024 10:19:31: Ping gesendet.
+04.10.2024 10:19:36: Ping gesendet.
+04.10.2024 10:19:42: Ping gesendet.
+04.10.2024 10:19:47: Ping gesendet.
+04.10.2024 10:19:52: Ping gesendet.
+04.10.2024 10:19:57: Ping gesendet.
+04.10.2024 10:20:02: Ping gesendet.
+04.10.2024 10:20:07: Ping gesendet.
+04.10.2024 10:20:12: Ping gesendet.
+04.10.2024 10:20:17: Ping gesendet.
+04.10.2024 10:20:22: Ping gesendet.
+04.10.2024 10:20:27: Ping gesendet.
+04.10.2024 10:20:32: Ping gesendet.
+04.10.2024 10:20:37: Ping gesendet.
+04.10.2024 10:20:42: Ping gesendet.
+04.10.2024 10:20:47: Ping gesendet.
+04.10.2024 10:20:52: Ping gesendet.
+04.10.2024 10:20:57: Ping gesendet.
+04.10.2024 10:21:02: Ping gesendet.
+04.10.2024 10:21:07: Ping gesendet.
+04.10.2024 10:21:12: Ping gesendet.
+04.10.2024 10:21:17: Ping gesendet.
+04.10.2024 10:21:22: Ping gesendet.
+04.10.2024 10:21:27: Ping gesendet.
+04.10.2024 10:21:32: Ping gesendet.
+04.10.2024 10:21:37: Ping gesendet.
+04.10.2024 10:21:42: Ping gesendet.
+04.10.2024 10:21:47: Ping gesendet.
+04.10.2024 10:21:52: Ping gesendet.
+04.10.2024 10:21:57: Ping gesendet.
+04.10.2024 10:22:02: Ping gesendet.
+04.10.2024 10:22:07: Ping gesendet.
+04.10.2024 10:22:12: Ping gesendet.
+04.10.2024 10:22:17: Ping gesendet.
+04.10.2024 10:22:22: Ping gesendet.
+04.10.2024 10:22:27: Ping gesendet.
+04.10.2024 10:22:32: Ping gesendet.
+04.10.2024 10:22:37: Ping gesendet.
+04.10.2024 10:22:42: Ping gesendet.
+04.10.2024 10:22:47: Ping gesendet.
+04.10.2024 10:22:52: Ping gesendet.
+04.10.2024 10:22:57: Ping gesendet.
+04.10.2024 10:23:02: Ping gesendet.
+04.10.2024 10:23:07: Ping gesendet.
+04.10.2024 10:23:12: Ping gesendet.
+04.10.2024 10:23:17: Ping gesendet.
+04.10.2024 10:23:22: Ping gesendet.
+04.10.2024 10:23:27: Ping gesendet.
+04.10.2024 10:23:32: Ping gesendet.
+04.10.2024 10:23:37: Ping gesendet.
+04.10.2024 10:23:42: Ping gesendet.
+04.10.2024 10:23:47: Ping gesendet.
+04.10.2024 10:23:52: Ping gesendet.
+04.10.2024 10:23:57: Ping gesendet.
+04.10.2024 10:24:02: Ping gesendet.
+04.10.2024 10:24:07: Ping gesendet.
+04.10.2024 10:24:12: Ping gesendet.
+04.10.2024 10:24:17: Ping gesendet.
+04.10.2024 10:24:22: Ping gesendet.
+04.10.2024 10:24:27: Ping gesendet.
+04.10.2024 10:24:32: Ping gesendet.
+04.10.2024 10:24:37: Ping gesendet.
+04.10.2024 10:24:42: Ping gesendet.
+04.10.2024 10:24:47: Ping gesendet.
+04.10.2024 10:24:52: Ping gesendet.
+04.10.2024 10:24:57: Ping gesendet.
+04.10.2024 10:25:02: Ping gesendet.
+04.10.2024 10:25:07: Ping gesendet.
+04.10.2024 10:25:12: Ping gesendet.
+04.10.2024 10:25:17: Ping gesendet.
+04.10.2024 10:25:22: Ping gesendet.
+04.10.2024 10:25:27: Ping gesendet.
+04.10.2024 10:25:32: Ping gesendet.
+04.10.2024 10:25:37: Ping gesendet.
+04.10.2024 10:25:42: Ping gesendet.
+04.10.2024 10:25:47: Ping gesendet.
+04.10.2024 10:25:52: Ping gesendet.
+04.10.2024 10:25:57: Ping gesendet.
+04.10.2024 10:26:02: Ping gesendet.
+04.10.2024 10:26:07: Ping gesendet.
+04.10.2024 10:26:12: Ping gesendet.
+04.10.2024 10:26:17: Ping gesendet.
+04.10.2024 10:26:22: Ping gesendet.
+04.10.2024 10:26:27: Ping gesendet.
+04.10.2024 10:26:32: Ping gesendet.
+04.10.2024 10:26:37: Ping gesendet.
+04.10.2024 10:26:42: Ping gesendet.
+04.10.2024 10:26:47: Ping gesendet.
+04.10.2024 10:26:52: Ping gesendet.
+04.10.2024 10:26:57: Ping gesendet.
+04.10.2024 10:27:02: Ping gesendet.
+04.10.2024 10:27:07: Ping gesendet.
+04.10.2024 10:27:12: Ping gesendet.
+04.10.2024 10:27:18: Ping gesendet.
+04.10.2024 10:27:23: Ping gesendet.
+04.10.2024 10:27:28: Ping gesendet.
+04.10.2024 10:27:33: Ping gesendet.
+04.10.2024 10:27:38: Ping gesendet.
+04.10.2024 10:27:43: Ping gesendet.
+04.10.2024 10:27:48: Ping gesendet.
+04.10.2024 10:27:53: Ping gesendet.
+04.10.2024 10:27:58: Ping gesendet.
+04.10.2024 10:28:03: Ping gesendet.
+04.10.2024 10:28:08: Ping gesendet.
+04.10.2024 10:28:13: Ping gesendet.
+04.10.2024 10:28:18: Ping gesendet.
+04.10.2024 10:28:23: Ping gesendet.
+04.10.2024 10:28:28: Ping gesendet.
+04.10.2024 10:28:33: Ping gesendet.
+04.10.2024 10:28:38: Ping gesendet.
+04.10.2024 10:28:43: Ping gesendet.
+04.10.2024 10:28:48: Ping gesendet.
+04.10.2024 10:28:53: Ping gesendet.
+04.10.2024 10:28:58: Ping gesendet.
+04.10.2024 10:29:03: Ping gesendet.
+04.10.2024 10:29:08: Ping gesendet.
+04.10.2024 10:29:13: Ping gesendet.
+04.10.2024 10:29:18: Ping gesendet.
+04.10.2024 10:29:23: Ping gesendet.
+04.10.2024 10:29:28: Ping gesendet.
+04.10.2024 10:29:33: Ping gesendet.
+04.10.2024 10:29:38: Ping gesendet.
+04.10.2024 10:29:43: Ping gesendet.
+04.10.2024 10:29:48: Ping gesendet.
+04.10.2024 10:29:53: Ping gesendet.
+04.10.2024 10:29:58: Ping gesendet.
+04.10.2024 10:30:03: Ping gesendet.
+04.10.2024 10:30:08: Ping gesendet.
+04.10.2024 10:30:13: Ping gesendet.
+04.10.2024 10:30:18: Ping gesendet.
+04.10.2024 10:30:23: Ping gesendet.
+04.10.2024 10:30:28: Ping gesendet.
+04.10.2024 10:30:33: Ping gesendet.
+04.10.2024 10:30:38: Ping gesendet.
+04.10.2024 10:30:43: Ping gesendet.
+04.10.2024 10:30:48: Ping gesendet.
+04.10.2024 10:30:53: Ping gesendet.
+04.10.2024 10:30:58: Ping gesendet.
+04.10.2024 10:31:03: Ping gesendet.
+04.10.2024 10:31:08: Ping gesendet.
+04.10.2024 10:31:13: Ping gesendet.
+04.10.2024 10:31:18: Ping gesendet.
+04.10.2024 10:31:23: Ping gesendet.
+04.10.2024 10:31:28: Ping gesendet.
+04.10.2024 10:31:33: Ping gesendet.
+04.10.2024 10:31:38: Ping gesendet.
+04.10.2024 10:31:43: Ping gesendet.
+04.10.2024 10:31:48: Ping gesendet.
+04.10.2024 10:31:53: Ping gesendet.
+04.10.2024 10:31:58: Ping gesendet.
+04.10.2024 10:32:03: Ping gesendet.
+04.10.2024 10:32:08: Ping gesendet.
+04.10.2024 10:32:13: Ping gesendet.
+04.10.2024 10:32:18: Ping gesendet.
+04.10.2024 10:32:23: Ping gesendet.
+04.10.2024 10:32:28: Ping gesendet.
+04.10.2024 10:32:33: Ping gesendet.
+04.10.2024 10:32:38: Ping gesendet.
+04.10.2024 10:32:43: Ping gesendet.
+04.10.2024 10:32:48: Ping gesendet.
+04.10.2024 10:32:53: Ping gesendet.
+04.10.2024 10:32:58: Ping gesendet.
+04.10.2024 10:33:03: Ping gesendet.
+04.10.2024 10:33:08: Ping gesendet.
+04.10.2024 10:33:13: Ping gesendet.
+04.10.2024 10:33:18: Ping gesendet.
+04.10.2024 10:33:23: Ping gesendet.
+04.10.2024 10:33:28: Ping gesendet.
+04.10.2024 10:33:33: Ping gesendet.
+04.10.2024 10:33:38: Ping gesendet.
+04.10.2024 10:33:43: Ping gesendet.
+04.10.2024 10:33:48: Ping gesendet.
+04.10.2024 10:33:53: Ping gesendet.
+04.10.2024 10:33:58: Ping gesendet.
+04.10.2024 10:34:03: Ping gesendet.
+04.10.2024 10:34:08: Ping gesendet.
+04.10.2024 10:34:13: Ping gesendet.
+04.10.2024 10:34:18: Ping gesendet.
+04.10.2024 10:34:23: Ping gesendet.
+04.10.2024 10:34:28: Ping gesendet.
+04.10.2024 10:34:33: Ping gesendet.
+04.10.2024 10:34:38: Ping gesendet.
+04.10.2024 10:34:43: Ping gesendet.
+04.10.2024 10:34:48: Ping gesendet.
+04.10.2024 10:34:53: Ping gesendet.
+04.10.2024 10:34:58: Ping gesendet.
+04.10.2024 10:35:03: Ping gesendet.
+04.10.2024 10:35:08: Ping gesendet.
+04.10.2024 10:35:13: Ping gesendet.
+04.10.2024 10:35:18: Ping gesendet.
+04.10.2024 10:35:24: Ping gesendet.
+04.10.2024 10:35:29: Ping gesendet.
+04.10.2024 10:35:34: Ping gesendet.
+04.10.2024 10:35:39: Ping gesendet.
+04.10.2024 10:35:44: Ping gesendet.
+04.10.2024 10:35:49: Ping gesendet.
+04.10.2024 10:35:54: Ping gesendet.
+04.10.2024 10:35:59: Ping gesendet.
+04.10.2024 10:36:04: Ping gesendet.
+04.10.2024 10:36:09: Ping gesendet.
+04.10.2024 10:36:14: Ping gesendet.
+04.10.2024 10:36:19: Ping gesendet.
+04.10.2024 10:36:24: Ping gesendet.
+04.10.2024 10:36:29: Ping gesendet.
+04.10.2024 10:36:34: Ping gesendet.
+04.10.2024 10:36:39: Ping gesendet.
+04.10.2024 10:36:44: Ping gesendet.
+04.10.2024 10:36:49: Ping gesendet.
+04.10.2024 10:36:54: Ping gesendet.
+04.10.2024 10:36:59: Ping gesendet.
+04.10.2024 10:37:04: Ping gesendet.
+04.10.2024 10:37:09: Ping gesendet.
+04.10.2024 10:37:14: Ping gesendet.
+04.10.2024 10:37:19: Ping gesendet.
+04.10.2024 10:37:24: Ping gesendet.
+04.10.2024 10:37:29: Ping gesendet.
+04.10.2024 10:37:34: Ping gesendet.
+04.10.2024 10:37:39: Ping gesendet.
+04.10.2024 10:37:44: Ping gesendet.
+04.10.2024 10:37:49: Ping gesendet.
+04.10.2024 10:37:54: Ping gesendet.
+04.10.2024 10:37:59: Ping gesendet.
+04.10.2024 10:38:04: Ping gesendet.
+04.10.2024 10:38:09: Ping gesendet.
+04.10.2024 10:38:14: Ping gesendet.
+04.10.2024 10:38:19: Ping gesendet.
+04.10.2024 10:38:24: Ping gesendet.
+04.10.2024 10:38:29: Ping gesendet.
+04.10.2024 10:38:34: Ping gesendet.
+04.10.2024 10:38:39: Ping gesendet.
+04.10.2024 10:38:44: Ping gesendet.
+04.10.2024 10:38:49: Ping gesendet.
+04.10.2024 10:38:54: Ping gesendet.
+04.10.2024 10:38:59: Ping gesendet.
+04.10.2024 10:39:04: Ping gesendet.
+04.10.2024 10:39:09: Ping gesendet.
+04.10.2024 10:39:14: Ping gesendet.
+04.10.2024 10:39:19: Ping gesendet.
+04.10.2024 10:39:24: Ping gesendet.
+04.10.2024 10:39:29: Ping gesendet.
+04.10.2024 10:39:34: Ping gesendet.
+04.10.2024 10:39:39: Ping gesendet.
+04.10.2024 10:39:44: Ping gesendet.
+04.10.2024 10:39:49: Ping gesendet.
+04.10.2024 10:39:54: Ping gesendet.
+04.10.2024 10:39:59: Ping gesendet.
+04.10.2024 10:40:04: Ping gesendet.
+04.10.2024 10:40:09: Ping gesendet.
+04.10.2024 10:40:14: Ping gesendet.
+04.10.2024 10:40:19: Ping gesendet.
+04.10.2024 10:40:24: Ping gesendet.
+04.10.2024 10:40:29: Ping gesendet.
+04.10.2024 10:40:34: Ping gesendet.
+04.10.2024 10:40:39: Ping gesendet.
+04.10.2024 10:40:44: Ping gesendet.
+04.10.2024 10:40:49: Ping gesendet.
+04.10.2024 10:40:54: Ping gesendet.
+04.10.2024 10:40:59: Ping gesendet.
+04.10.2024 10:41:04: Ping gesendet.
+04.10.2024 10:41:09: Ping gesendet.
+04.10.2024 10:41:14: Ping gesendet.
+04.10.2024 10:41:19: Ping gesendet.
+04.10.2024 10:41:24: Ping gesendet.
+04.10.2024 10:41:29: Ping gesendet.
+04.10.2024 10:41:34: Ping gesendet.
+04.10.2024 10:41:39: Ping gesendet.
+04.10.2024 10:41:44: Ping gesendet.
+04.10.2024 10:41:49: Ping gesendet.
+04.10.2024 10:41:54: Ping gesendet.
+04.10.2024 10:41:59: Ping gesendet.
+04.10.2024 10:42:04: Ping gesendet.
+04.10.2024 10:42:09: Ping gesendet.
+04.10.2024 10:42:14: Ping gesendet.
+04.10.2024 10:42:19: Ping gesendet.
+04.10.2024 10:42:24: Ping gesendet.
+04.10.2024 10:42:29: Ping gesendet.
+04.10.2024 10:42:34: Ping gesendet.
+04.10.2024 10:42:39: Ping gesendet.
+04.10.2024 10:42:44: Ping gesendet.
+04.10.2024 10:42:49: Ping gesendet.
+04.10.2024 10:42:54: Ping gesendet.
+04.10.2024 10:42:59: Ping gesendet.
+04.10.2024 10:43:04: Ping gesendet.
+04.10.2024 10:43:09: Ping gesendet.
+04.10.2024 10:43:14: Ping gesendet.
+04.10.2024 10:43:19: Ping gesendet.
+04.10.2024 10:43:24: Ping gesendet.
+04.10.2024 10:43:29: Ping gesendet.
+04.10.2024 10:43:35: Ping gesendet.
+04.10.2024 10:43:40: Ping gesendet.
+04.10.2024 10:43:45: Ping gesendet.
+04.10.2024 10:43:50: Ping gesendet.
+04.10.2024 10:43:55: Ping gesendet.
+04.10.2024 10:44:00: Ping gesendet.
+04.10.2024 10:44:05: Ping gesendet.
+04.10.2024 10:44:10: Ping gesendet.
+04.10.2024 10:44:15: Ping gesendet.
+04.10.2024 10:44:20: Ping gesendet.
+04.10.2024 10:44:25: Ping gesendet.
+04.10.2024 10:44:30: Ping gesendet.
+04.10.2024 10:44:35: Ping gesendet.
+04.10.2024 10:44:40: Ping gesendet.
+04.10.2024 10:44:45: Ping gesendet.
+04.10.2024 10:44:50: Ping gesendet.
+04.10.2024 10:44:55: Ping gesendet.
+04.10.2024 10:45:00: Ping gesendet.
+04.10.2024 10:45:05: Ping gesendet.
+04.10.2024 10:45:10: Ping gesendet.
+04.10.2024 10:45:15: Ping gesendet.
+04.10.2024 10:45:20: Ping gesendet.
+04.10.2024 10:45:25: Ping gesendet.
+04.10.2024 10:45:30: Ping gesendet.
+04.10.2024 10:45:35: Ping gesendet.
+04.10.2024 10:45:40: Ping gesendet.
+04.10.2024 10:45:45: Ping gesendet.
+04.10.2024 10:45:50: Ping gesendet.
+04.10.2024 10:45:55: Ping gesendet.
+04.10.2024 10:46:00: Ping gesendet.
+04.10.2024 10:46:05: Ping gesendet.
+04.10.2024 10:46:10: Ping gesendet.
+04.10.2024 10:46:15: Ping gesendet.
+04.10.2024 10:46:20: Ping gesendet.
+04.10.2024 10:46:25: Ping gesendet.
+04.10.2024 10:46:30: Ping gesendet.
+04.10.2024 10:46:35: Ping gesendet.
+04.10.2024 10:46:40: Ping gesendet.
+04.10.2024 10:46:45: Ping gesendet.
+04.10.2024 10:46:50: Ping gesendet.
+04.10.2024 10:46:55: Ping gesendet.
+04.10.2024 10:47:00: Ping gesendet.
+04.10.2024 10:47:05: Ping gesendet.
+04.10.2024 10:47:10: Ping gesendet.
+04.10.2024 10:47:15: Ping gesendet.
+04.10.2024 10:47:20: Ping gesendet.
+04.10.2024 10:47:25: Ping gesendet.
+04.10.2024 10:47:30: Ping gesendet.
+04.10.2024 10:47:35: Ping gesendet.
+04.10.2024 10:47:40: Ping gesendet.
+04.10.2024 10:47:45: Ping gesendet.
+04.10.2024 10:47:50: Ping gesendet.
+04.10.2024 10:47:55: Ping gesendet.
+04.10.2024 10:48:00: Ping gesendet.
+04.10.2024 10:48:05: Ping gesendet.
+04.10.2024 10:48:10: Ping gesendet.
+04.10.2024 10:48:15: Ping gesendet.
+04.10.2024 10:48:20: Ping gesendet.
+04.10.2024 10:48:25: Ping gesendet.
+04.10.2024 10:48:30: Ping gesendet.
+04.10.2024 10:48:35: Ping gesendet.
+04.10.2024 10:48:40: Ping gesendet.
+04.10.2024 10:48:45: Ping gesendet.
+04.10.2024 10:48:50: Ping gesendet.
+04.10.2024 10:48:55: Ping gesendet.
+04.10.2024 10:49:00: Ping gesendet.
+04.10.2024 10:49:05: Ping gesendet.
+04.10.2024 10:49:10: Ping gesendet.
+04.10.2024 10:49:15: Ping gesendet.
+04.10.2024 10:49:20: Ping gesendet.
+04.10.2024 10:49:25: Ping gesendet.
+04.10.2024 10:49:30: Ping gesendet.
+04.10.2024 10:49:35: Ping gesendet.
+04.10.2024 10:49:40: Ping gesendet.
+04.10.2024 10:49:45: Ping gesendet.
+04.10.2024 10:49:50: Ping gesendet.
+04.10.2024 10:49:55: Ping gesendet.
+04.10.2024 10:50:00: Ping gesendet.
+04.10.2024 10:50:05: Ping gesendet.
+04.10.2024 10:50:10: Ping gesendet.
+04.10.2024 10:50:15: Ping gesendet.
+04.10.2024 10:50:20: Ping gesendet.
+04.10.2024 10:50:25: Ping gesendet.
+04.10.2024 10:50:30: Ping gesendet.
+04.10.2024 10:50:35: Ping gesendet.
+04.10.2024 10:50:40: Ping gesendet.
+04.10.2024 10:50:45: Ping gesendet.
+04.10.2024 10:50:50: Ping gesendet.
+04.10.2024 10:50:55: Ping gesendet.
+04.10.2024 10:51:00: Ping gesendet.
+04.10.2024 10:51:05: Ping gesendet.
+04.10.2024 10:51:10: Ping gesendet.
+04.10.2024 10:51:15: Ping gesendet.
+04.10.2024 10:51:20: Ping gesendet.
+04.10.2024 10:51:25: Ping gesendet.
+04.10.2024 10:51:30: Ping gesendet.
+04.10.2024 10:51:36: Ping gesendet.
+04.10.2024 10:51:41: Ping gesendet.
+04.10.2024 10:51:46: Ping gesendet.
+04.10.2024 10:51:51: Ping gesendet.
+04.10.2024 10:51:56: Ping gesendet.
+04.10.2024 10:52:01: Ping gesendet.
+04.10.2024 10:52:06: Ping gesendet.
+04.10.2024 10:52:11: Ping gesendet.
+04.10.2024 10:52:16: Ping gesendet.
+04.10.2024 10:52:21: Ping gesendet.
+04.10.2024 10:52:26: Ping gesendet.
+04.10.2024 10:52:31: Ping gesendet.
+04.10.2024 10:52:36: Ping gesendet.
+04.10.2024 10:52:41: Ping gesendet.
+04.10.2024 10:52:46: Ping gesendet.
+04.10.2024 10:52:51: Ping gesendet.
+04.10.2024 10:52:56: Ping gesendet.
+04.10.2024 10:53:01: Ping gesendet.
+04.10.2024 10:53:06: Ping gesendet.
+04.10.2024 10:53:11: Ping gesendet.
+04.10.2024 10:53:16: Ping gesendet.
+04.10.2024 10:53:21: Ping gesendet.
+04.10.2024 10:53:26: Ping gesendet.
+04.10.2024 10:53:31: Ping gesendet.
+04.10.2024 10:53:36: Ping gesendet.
+04.10.2024 10:53:41: Ping gesendet.
+04.10.2024 10:53:46: Ping gesendet.
+04.10.2024 10:53:51: Ping gesendet.
+04.10.2024 10:53:56: Ping gesendet.
+04.10.2024 10:54:01: Ping gesendet.
+04.10.2024 10:54:06: Ping gesendet.
+04.10.2024 10:54:11: Ping gesendet.
+04.10.2024 10:54:16: Ping gesendet.
+04.10.2024 10:54:21: Ping gesendet.
+04.10.2024 10:54:26: Ping gesendet.
+04.10.2024 10:54:31: Ping gesendet.
+04.10.2024 10:54:36: Ping gesendet.
+04.10.2024 10:54:41: Ping gesendet.
+04.10.2024 10:54:46: Ping gesendet.
+04.10.2024 10:54:51: Ping gesendet.
+04.10.2024 10:54:56: Ping gesendet.
+04.10.2024 10:55:01: Ping gesendet.
+04.10.2024 10:55:06: Ping gesendet.
+04.10.2024 10:55:11: Ping gesendet.
+04.10.2024 10:55:16: Ping gesendet.
+04.10.2024 10:55:21: Ping gesendet.
+04.10.2024 10:55:26: Ping gesendet.
+04.10.2024 10:55:31: Ping gesendet.
+04.10.2024 10:55:36: Ping gesendet.
+04.10.2024 10:55:41: Ping gesendet.
+04.10.2024 10:55:46: Ping gesendet.
+04.10.2024 10:55:51: Ping gesendet.
+04.10.2024 10:55:56: Ping gesendet.
+04.10.2024 10:56:01: Ping gesendet.
+04.10.2024 10:56:06: Ping gesendet.
+04.10.2024 10:56:11: Ping gesendet.
+04.10.2024 10:56:16: Ping gesendet.
+04.10.2024 10:56:21: Ping gesendet.
+04.10.2024 10:56:26: Ping gesendet.
+04.10.2024 10:56:31: Ping gesendet.
+04.10.2024 10:56:36: Ping gesendet.
+04.10.2024 10:56:41: Ping gesendet.
+04.10.2024 10:56:46: Ping gesendet.
+04.10.2024 10:56:51: Ping gesendet.
+04.10.2024 10:56:56: Ping gesendet.
+04.10.2024 10:57:01: Ping gesendet.
+04.10.2024 10:57:06: Ping gesendet.
+04.10.2024 10:57:11: Ping gesendet.
+04.10.2024 10:57:16: Ping gesendet.
+04.10.2024 10:57:21: Ping gesendet.
+04.10.2024 10:57:26: Ping gesendet.
+04.10.2024 10:57:31: Ping gesendet.
+04.10.2024 10:57:36: Ping gesendet.
+04.10.2024 10:57:41: Ping gesendet.

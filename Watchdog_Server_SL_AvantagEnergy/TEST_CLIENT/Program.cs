@@ -4,10 +4,7 @@ using System.Net.Sockets;
 using System.Text;
 using System.Threading;
 
-/* 
- *  Simeon Lehnen - okt.2024
- */
-
+/*  *  Simeon Lehnen - okt.2024 */
 class WatchdogClient
 {
     private static string ServerIP;
@@ -28,22 +25,22 @@ class WatchdogClient
                 NetworkStream stream = client.GetStream();
                 Console.WriteLine("Verbunden mit dem Watchdog-Server.");
 
-                // Senden der IP-Adresse
-                SendMessage(stream, ClientIP);
-                // Senden des Projektnamens
-                SendMessage(stream, ProjectName);
-                // Senden der E-Mail-Adresse
-                SendMessage(stream, Email);
+                // Senden der IP-Adresse  
+                SendMessage(stream, "IP", ClientIP);
+                // Senden des Projektnamens  
+                SendMessage(stream, "ProjectName", ProjectName);
+                // Senden der E-Mail-Adresse  
+                SendMessage(stream, "Email", Email);
 
-                // Senden von Pings
+                // Senden von Pings  
                 while (true)
                 {
-                    string pingMessage = ""; // muss leer bleiben 
+                    string pingMessage = "Ping"; // Ping-Nachricht
                     byte[] pingData = Encoding.ASCII.GetBytes(pingMessage);
                     stream.Write(pingData, 0, pingData.Length);
                     Console.WriteLine("Ping gesendet.");
                     LogDev("Ping gesendet.");
-                    Thread.Sleep(5000); // Alle 5 Sekunden einen Ping senden
+                    Thread.Sleep(5000); // Alle 5 Sekunden einen Ping senden  
                 }
             }
         }
@@ -54,8 +51,9 @@ class WatchdogClient
         }
     }
 
-    private static void SendMessage(NetworkStream stream, string message)
+    private static void SendMessage(NetworkStream stream, string key, string value)
     {
+        string message = $"{key}: {value}";
         byte[] data = Encoding.ASCII.GetBytes(message);
         stream.Write(data, 0, data.Length);
         Console.WriteLine($"Nachricht gesendet: {message}");

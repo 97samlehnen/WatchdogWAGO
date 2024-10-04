@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\U23551\\Documents\\GitHub\\WatchdogWAGO\\Watchdog_Server_SL_AvantagEnergy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1624C062-C34C-4A2B-B93A-BFF6767E1185}|Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy.csproj|c:\\users\\u23551\\documents\\github\\watchdogwago\\watchdog_server_sl_avantagenergy\\watchdog_server_sl_avantagenergy\\sendsms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1624C062-C34C-4A2B-B93A-BFF6767E1185}|Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy.csproj|solutionrelative:watchdog_server_sl_avantagenergy\\sendsms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1624C062-C34C-4A2B-B93A-BFF6767E1185}|Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy.csproj|c:\\users\\u23551\\documents\\github\\watchdogwago\\watchdog_server_sl_avantagenergy\\watchdog_server_sl_avantagenergy\\saveclientdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1624C062-C34C-4A2B-B93A-BFF6767E1185}|Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy.csproj|solutionrelative:watchdog_server_sl_avantagenergy\\saveclientdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5178D5-7D63-4A7E-9780-9791C4B56B29}|TEST_CLIENT\\TEST_CLIENT.csproj|c:\\users\\u23551\\documents\\github\\watchdogwago\\watchdog_server_sl_avantagenergy\\test_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5178D5-7D63-4A7E-9780-9791C4B56B29}|TEST_CLIENT\\TEST_CLIENT.csproj|solutionrelative:test_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1624C062-C34C-4A2B-B93A-BFF6767E1185}|Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy.csproj|c:\\users\\u23551\\documents\\github\\watchdogwago\\watchdog_server_sl_avantagenergy\\watchdog_server_sl_avantagenergy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1624C062-C34C-4A2B-B93A-BFF6767E1185}|Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy.csproj|solutionrelative:watchdog_server_sl_avantagenergy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1624C062-C34C-4A2B-B93A-BFF6767E1185}|Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy.csproj|c:\\users\\u23551\\documents\\github\\watchdogwago\\watchdog_server_sl_avantagenergy\\watchdog_server_sl_avantagenergy\\saveclientdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1624C062-C34C-4A2B-B93A-BFF6767E1185}|Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy.csproj|solutionrelative:watchdog_server_sl_avantagenergy\\saveclientdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1624C062-C34C-4A2B-B93A-BFF6767E1185}|Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy.csproj|c:\\users\\u23551\\documents\\github\\watchdogwago\\watchdog_server_sl_avantagenergy\\watchdog_server_sl_avantagenergy\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1624C062-C34C-4A2B-B93A-BFF6767E1185}|Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy.csproj|solutionrelative:watchdog_server_sl_avantagenergy\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1624C062-C34C-4A2B-B93A-BFF6767E1185}|Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy.csproj|c:\\users\\u23551\\documents\\github\\watchdogwago\\watchdog_server_sl_avantagenergy\\watchdog_server_sl_avantagenergy\\sendsms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1624C062-C34C-4A2B-B93A-BFF6767E1185}|Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy.csproj|solutionrelative:watchdog_server_sl_avantagenergy\\sendsms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1624C062-C34C-4A2B-B93A-BFF6767E1185}|Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy.csproj|c:\\users\\u23551\\documents\\github\\watchdogwago\\watchdog_server_sl_avantagenergy\\watchdog_server_sl_avantagenergy\\licensemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1624C062-C34C-4A2B-B93A-BFF6767E1185}|Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy.csproj|solutionrelative:watchdog_server_sl_avantagenergy\\licensemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1624C062-C34C-4A2B-B93A-BFF6767E1185}|Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy.csproj|c:\\users\\u23551\\documents\\github\\watchdogwago\\watchdog_server_sl_avantagenergy\\watchdog_server_sl_avantagenergy\\mailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1624C062-C34C-4A2B-B93A-BFF6767E1185}|Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy.csproj|solutionrelative:watchdog_server_sl_avantagenergy\\mailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA5178D5-7D63-4A7E-9780-9791C4B56B29}|TEST_CLIENT\\TEST_CLIENT.csproj|c:\\users\\u23551\\documents\\github\\watchdogwago\\watchdog_server_sl_avantagenergy\\test_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA5178D5-7D63-4A7E-9780-9791C4B56B29}|TEST_CLIENT\\TEST_CLIENT.csproj|solutionrelative:test_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,24 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\U23551\\Documents\\GitHub\\WatchdogWAGO\\Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy\\EmailSender.cs",
+              "RelativeDocumentMoniker": "Watchdog_Server_SL_AvantagEnergy\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\U23551\\Documents\\GitHub\\WatchdogWAGO\\Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy\\EmailSender.cs",
+              "RelativeToolTip": "Watchdog_Server_SL_AvantagEnergy\\EmailSender.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAcwDoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T07:17:05.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "SendSMS.cs",
               "DocumentMoniker": "C:\\Users\\U23551\\Documents\\GitHub\\WatchdogWAGO\\Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy\\SendSMS.cs",
               "RelativeDocumentMoniker": "Watchdog_Server_SL_AvantagEnergy\\SendSMS.cs",
               "ToolTip": "C:\\Users\\U23551\\Documents\\GitHub\\WatchdogWAGO\\Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy\\SendSMS.cs",
               "RelativeToolTip": "Watchdog_Server_SL_AvantagEnergy\\SendSMS.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA8AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T06:19:04.82Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "LicenseManagement.cs",
               "DocumentMoniker": "C:\\Users\\U23551\\Documents\\GitHub\\WatchdogWAGO\\Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy\\LicenseManagement.cs",
               "RelativeDocumentMoniker": "Watchdog_Server_SL_AvantagEnergy\\LicenseManagement.cs",
@@ -64,52 +77,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "SaveClientData.cs",
               "DocumentMoniker": "C:\\Users\\U23551\\Documents\\GitHub\\WatchdogWAGO\\Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy\\SaveClientData.cs",
               "RelativeDocumentMoniker": "Watchdog_Server_SL_AvantagEnergy\\SaveClientData.cs",
               "ToolTip": "C:\\Users\\U23551\\Documents\\GitHub\\WatchdogWAGO\\Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy\\SaveClientData.cs",
               "RelativeToolTip": "Watchdog_Server_SL_AvantagEnergy\\SaveClientData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA8wBIAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T13:11:19.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "mailer.cs",
-              "DocumentMoniker": "C:\\Users\\U23551\\Documents\\GitHub\\WatchdogWAGO\\Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy\\mailer.cs",
-              "RelativeDocumentMoniker": "Watchdog_Server_SL_AvantagEnergy\\mailer.cs",
-              "ToolTip": "C:\\Users\\U23551\\Documents\\GitHub\\WatchdogWAGO\\Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy\\mailer.cs",
-              "RelativeToolTip": "Watchdog_Server_SL_AvantagEnergy\\mailer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T13:10:46.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\U23551\\Documents\\GitHub\\WatchdogWAGO\\Watchdog_Server_SL_AvantagEnergy\\TEST_CLIENT\\Program.cs",
               "RelativeDocumentMoniker": "TEST_CLIENT\\Program.cs",
               "ToolTip": "C:\\Users\\U23551\\Documents\\GitHub\\WatchdogWAGO\\Watchdog_Server_SL_AvantagEnergy\\TEST_CLIENT\\Program.cs",
               "RelativeToolTip": "TEST_CLIENT\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAIBJwBQAAAAFAAAA",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAmwCMAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T11:59:30.04Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\U23551\\Documents\\GitHub\\WatchdogWAGO\\Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy\\Program.cs",
               "RelativeDocumentMoniker": "Watchdog_Server_SL_AvantagEnergy\\Program.cs",
               "ToolTip": "C:\\Users\\U23551\\Documents\\GitHub\\WatchdogWAGO\\Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy\\Program.cs",
               "RelativeToolTip": "Watchdog_Server_SL_AvantagEnergy\\Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAiwAsAAAAAAAAA",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAowHQAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T11:27:00.8Z",
               "EditorCaption": ""
