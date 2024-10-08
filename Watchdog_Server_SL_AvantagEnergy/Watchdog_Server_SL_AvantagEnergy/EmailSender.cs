@@ -59,7 +59,7 @@ namespace Watchdog_Server_SL_AvantagEnergy
 
         private static WatchdogServer.ClientInfo LoadClientInfoFromFile(string ip)
         {
-            string filePath = $"C:\\Users\\U23551\\Documents\\GitHub\\WatchdogWAGO\\Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy\\bin\\Debug\\net8.0\\clients\\{ip}.txt";
+            string filePath = $"C:\\Users\\U23551\\Documents\\GitHub\\WatchdogWAGO\\Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy\\bin\\Debug\\net8.0\\clients\\{ip}.cfg";
             LogDev($"Lade Client-Informationen aus Datei: {filePath}");
 
             if (File.Exists(filePath))
@@ -108,7 +108,7 @@ namespace Watchdog_Server_SL_AvantagEnergy
 
         private static void LogEmailSent(MailMessage message)
         {
-            string logFilePath = "logs\\AlarmMailSend.log";
+            string logFilePath = "Alarmlogs\\AlarmMailSend.log";
             string logMessage = $"{DateTime.Now}: E-Mail gesendet an {message.To} mit Betreff '{message.Subject}' und Inhalt:\n{message.Body}";
             Console.WriteLine(logMessage);
             File.AppendAllText(logFilePath, logMessage + Environment.NewLine);

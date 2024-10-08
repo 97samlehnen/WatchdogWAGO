@@ -13,7 +13,7 @@ namespace Watchdog_Server_SL_AvantagEnergy
                 Directory.CreateDirectory(directoryPath);
             }
 
-            string filePath = Path.Combine(directoryPath, $"{clientInfo.IP}.txt");
+            string filePath = Path.Combine(directoryPath, $"{clientInfo.IP}.cfg");
             string newContent = $"IP={clientInfo.IP}\nProjectName={clientInfo.ProjectName}\nEmail={clientInfo.Email}";
 
             Console.WriteLine($"Speichere in Datei: {filePath}");
@@ -26,7 +26,7 @@ namespace Watchdog_Server_SL_AvantagEnergy
         public static WatchdogServer.ClientInfo LoadClientInfoFromFile(string ip)
         {
             string directoryPath = "C:\\Users\\U23551\\Documents\\GitHub\\WatchdogWAGO\\Watchdog_Server_SL_AvantagEnergy\\Watchdog_Server_SL_AvantagEnergy\\bin\\Debug\\net8.0\\clients";
-            string filePath = Path.Combine(directoryPath, $"{ip}.txt");
+            string filePath = Path.Combine(directoryPath, $"{ip}.cfg");
 
             if (!File.Exists(filePath))
             {

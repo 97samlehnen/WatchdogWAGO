@@ -14,22 +14,22 @@ using System.Threading.Tasks;
 namespace Watchdog_Server_SL_AvantagEnergy
 {
     internal class SendSMS
-    {
-        //static void Main(string[] args)
-        //{
-        //    // Deine Account SID und Auth Token von Twilio
-        //    const string accountSid = "deine_account_sid";
-        //    const string authToken = "dein_auth_token";
+    //{
+    //    static void Main(string[] args)
+    //    {
+    //        // Deine Account SID und Auth Token von Twilio
+    //        const string accountSid = "deine_account_sid";
+    //        const string authToken = "dein_auth_token";
 
-        //    TwilioClient.Init(accountSid, authToken);
+    //        TwilioClient.Init(accountSid, authToken);
 
-        //    var message = MessageResource.Create(
-        //        body: "Hallo, das ist eine Testnachricht!",
-        //        from: new Twilio.Types.PhoneNumber("deine_twilio_nummer"),
-        //        to: new Twilio.Types.PhoneNumber("ziel_telefonnummer")
-        //    );
+    //        var message = MessageResource.Create(
+    //            body: "Hallo, das ist eine Testnachricht!",
+    //            from: new Twilio.Types.PhoneNumber("deine_twilio_nummer"),
+    //            to: new Twilio.Types.PhoneNumber("ziel_telefonnummer")
+    //        );
 
-        //    Console.WriteLine($"Nachricht gesendet: {message.Sid}");
-        //}
-    }
+    //        Console.WriteLine($"Nachricht gesendet: {message.Sid}");
+    //    }
+    //}
 }

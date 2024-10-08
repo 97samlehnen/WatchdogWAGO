@@ -252,7 +252,7 @@ namespace Watchdog_Server_SL_AvantagEnergy
 
         private static void LogClientActivity(ClientInfo clientInfo, string message)
         {
-            string logFilePath = $"logs\\test.log";
+            string logFilePath = $"clients/logs\\{clientInfo.IP}.log";
             string logMessage = $"{DateTime.Now}: {message}";
             File.AppendAllText(logFilePath, logMessage + Environment.NewLine);
         }
