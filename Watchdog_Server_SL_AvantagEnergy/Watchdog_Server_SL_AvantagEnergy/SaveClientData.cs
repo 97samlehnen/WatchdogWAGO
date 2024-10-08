@@ -14,7 +14,7 @@ namespace Watchdog_Server_SL_AvantagEnergy
             }
 
             string filePath = Path.Combine(directoryPath, $"{clientInfo.IP}.cfg");
-            string newContent = $"IP={clientInfo.IP}\nProjectName={clientInfo.ProjectName}\nEmail={clientInfo.Email}";
+            string newContent = $"IP={clientInfo.IP}\nProjectName={clientInfo.ProjectName}\nEmail={clientInfo.Email}\nCCEmail1={clientInfo.CCEmail1}\nCCEmail2={clientInfo.CCEmail2}";
 
             Console.WriteLine($"Speichere in Datei: {filePath}");
             Console.WriteLine($"Inhalt: {newContent}");
@@ -49,6 +49,14 @@ namespace Watchdog_Server_SL_AvantagEnergy
                 else if (line.StartsWith("Email="))
                 {
                     clientInfo.Email = line.Substring("Email=".Length);
+                }
+                else if (line.StartsWith("CCEmail1="))
+                {
+                    clientInfo.CCEmail1 = line.Substring("CCEmail1=".Length);
+                }
+                else if (line.StartsWith("CCEmail2="))
+                {
+                    clientInfo.CCEmail2 = line.Substring("CCEmail2=".Length);
                 }
             }
 

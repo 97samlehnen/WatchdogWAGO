@@ -137,6 +137,14 @@ namespace Watchdog_Server_SL_AvantagEnergy
                         {
                             clientInfo.Email = part.Substring("Email:".Length);
                         }
+                        else if (part.StartsWith("CCEmail1:"))
+                        {
+                            clientInfo.CCEmail1 = part.Substring("CCEmail1:".Length);
+                        }
+                        else if (part.StartsWith("CCEmail2:"))
+                        {
+                            clientInfo.CCEmail2 = part.Substring("CCEmail2:".Length);
+                        }
                     }
 
                     // Initialisierung der LastActivity
@@ -145,10 +153,14 @@ namespace Watchdog_Server_SL_AvantagEnergy
                     Console.WriteLine($">Empfangene IP-Adresse: {clientInfo.IP}");
                     Console.WriteLine($">Empfangener Projektname: {clientInfo.ProjectName}");
                     Console.WriteLine($">Empfangene E-Mail-Adresse: {clientInfo.Email}");
+                    Console.WriteLine($">Empfangene CCE-Mail1-Adresse: {clientInfo.CCEmail1}");
+                    Console.WriteLine($">Empfangene CCE-Mail2-Adresse: {clientInfo.CCEmail2}");
                     Console.ResetColor();
                     LogDev($">Empfangene IP-Adresse: {clientInfo.IP}");
                     LogDev($">Empfangener Projektname: {clientInfo.ProjectName}");
                     LogDev($">Empfangene E-Mail-Adresse: {clientInfo.Email}");
+                    LogDev($">Empfangene CCE-Mail1-Adresse: {clientInfo.CCEmail1}");
+                    LogDev($">Empfangene CCE-Mail2-Adresse: {clientInfo.CCEmail2}");
 
                     // Speichern der Client-Informationen
                     SaveClientData.SaveClientInfoToFile(clientInfo);
@@ -272,6 +284,8 @@ namespace Watchdog_Server_SL_AvantagEnergy
             public string IP { get; set; } = null!;
             public string ProjectName { get; set; } = null!;
             public string Email { get; set; } = null!;
+            public string CCEmail1 { get; set; } = null!;
+            public string CCEmail2 { get; set; } = null!;
             public DateTime LastActivity { get; set; }
         }
     }

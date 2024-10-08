@@ -1,2 +1,5 @@
 08.10.2024 08:00:08: ALARM: Client 172.20.31.55 hat sich nicht innerhalb von 20 Sekunden wieder angemeldet.
 08.10.2024 08:38:30: ALARM: Client 172.20.31.55 hat sich nicht innerhalb von 20 Sekunden wieder angemeldet.
+08.10.2024 13:18:02: ALARM: Client 172.20.31.55 hat sich nicht innerhalb von 20 Sekunden wieder angemeldet.
+08.10.2024 13:26:06: ALARM: Client 172.20.31.55 hat sich nicht innerhalb von 20 Sekunden wieder angemeldet.
+08.10.2024 13:56:31: ALARM: Client 172.20.31.55 hat sich nicht innerhalb von 20 Sekunden wieder angemeldet.

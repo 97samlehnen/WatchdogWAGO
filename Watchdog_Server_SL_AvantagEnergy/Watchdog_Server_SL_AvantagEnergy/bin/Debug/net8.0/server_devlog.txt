@@ -2399,3 +2399,464 @@
 08.10.2024 08:52:42: >Ping von 172.20.31.55 empfangen.
 08.10.2024 08:52:47: >Ping von 172.20.31.55 empfangen.
 08.10.2024 08:52:49: Watchdog Server wird beendet.
+08.10.2024 13:10:51: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+08.10.2024 13:11:02: >Empfangene Daten: IP:172.20.31.55;ProjectName:MyProject;Email:myemail@example.com;CC1:cc1@example.com;CC2:cc2@example.com;MyProject
+08.10.2024 13:11:02: >Empfangene IP-Adresse: 172.20.31.55
+08.10.2024 13:11:02: >Empfangener Projektname: MyProject
+08.10.2024 13:11:02: >Empfangene E-Mail-Adresse: myemail@example.com
+08.10.2024 13:11:02: >Empfangene CCE-Mail1-Adresse: 
+08.10.2024 13:11:02: >Empfangene CCE-Mail2-Adresse: 
+08.10.2024 13:11:02: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\172.20.31.55.cfg
+08.10.2024 13:11:07: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:11:12: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:11:17: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:11:22: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:11:27: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:11:30: Watchdog Server wird beendet.
+08.10.2024 13:14:08: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+08.10.2024 13:14:15: >Empfangene Daten: IP:172.20.31.55;ProjectName:MyProject;Email:myemail@example.com;CC1:cc1@example.com;CC2:cc2@example.com;MyProject
+08.10.2024 13:14:15: >Empfangene IP-Adresse: 172.20.31.55
+08.10.2024 13:14:15: >Empfangener Projektname: MyProject
+08.10.2024 13:14:15: >Empfangene E-Mail-Adresse: myemail@example.com
+08.10.2024 13:14:15: >Empfangene CCE-Mail1-Adresse: 
+08.10.2024 13:14:15: >Empfangene CCE-Mail2-Adresse: 
+08.10.2024 13:14:15: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\172.20.31.55.cfg
+08.10.2024 13:14:16: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:16: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:17: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:17: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:18: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:18: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:19: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:19: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:20: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:20: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:21: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:21: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:22: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:22: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:23: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:23: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:24: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:24: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:25: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:25: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:26: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:26: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:27: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:27: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:28: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:28: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:29: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:29: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:30: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:30: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:31: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:32: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:32: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:33: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:33: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:34: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:34: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:35: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:35: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:36: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:36: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:37: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:37: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:38: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:38: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:39: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:39: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:40: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:40: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:41: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:41: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:42: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:42: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:43: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:43: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:44: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:44: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:45: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:45: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:46: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:46: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:47: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:47: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:48: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:48: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:49: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:49: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:50: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:50: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:51: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:52: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:52: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:53: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:53: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:54: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:54: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:55: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:55: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:56: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:56: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:57: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:57: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:58: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:58: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:59: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:14:59: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:00: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:00: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:01: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:01: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:02: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:02: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:03: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:03: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:04: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:04: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:05: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:05: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:06: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:06: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:07: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:07: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:08: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:08: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:09: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:09: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:10: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:10: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:11: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:11: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:12: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:12: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:13: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:13: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:14: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:15: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:15: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:16: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:16: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:17: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:17: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:18: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:18: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:19: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:19: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:20: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:20: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:21: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:21: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:22: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:22: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:23: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:23: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:24: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:24: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:25: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:25: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:26: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:26: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:27: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:27: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:28: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:28: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:29: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:29: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:30: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:30: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:31: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:31: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:32: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:32: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:33: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:33: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:34: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:34: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:35: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:36: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:36: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:37: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:37: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:38: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:38: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:39: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:39: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:40: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:15:40: Client Verbindung verloren.
+08.10.2024 13:15:40: Client getrennt: 172.20.31.55 (MyProject)
+08.10.2024 13:15:41: Watchdog Server wird beendet.
+08.10.2024 13:16:02: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+08.10.2024 13:16:08: >Empfangene Daten: IP:172.20.31.55;ProjectName:MyProject;Email:myemail@example.com;CC1:cc1@example.com;CC2:cc2@example.com;MyProject
+08.10.2024 13:16:08: >Empfangene IP-Adresse: 172.20.31.55
+08.10.2024 13:16:08: >Empfangener Projektname: MyProject
+08.10.2024 13:16:08: >Empfangene E-Mail-Adresse: myemail@example.com
+08.10.2024 13:16:08: >Empfangene CCE-Mail1-Adresse: 
+08.10.2024 13:16:08: >Empfangene CCE-Mail2-Adresse: 
+08.10.2024 13:16:08: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\172.20.31.55.cfg
+08.10.2024 13:16:13: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:16:18: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:16:23: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:16:28: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:16:33: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:16:38: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:16:43: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:16:48: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:16:51: Watchdog Server wird beendet.
+08.10.2024 13:16:58: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+08.10.2024 13:17:04: >Empfangene Daten: IP:172.20.31.55;ProjectName:MyProject;Email:myemail@example.com;CC1:cc1@example.com;CC2:cc2@example.com;MyProject
+08.10.2024 13:17:04: >Empfangene IP-Adresse: 172.20.31.55
+08.10.2024 13:17:04: >Empfangener Projektname: MyProject
+08.10.2024 13:17:04: >Empfangene E-Mail-Adresse: myemail@example.com
+08.10.2024 13:17:04: >Empfangene CCE-Mail1-Adresse: 
+08.10.2024 13:17:04: >Empfangene CCE-Mail2-Adresse: 
+08.10.2024 13:17:04: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\172.20.31.55.cfg
+08.10.2024 13:17:09: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:17:29: Watchdog Server wird beendet.
+08.10.2024 13:17:31: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+08.10.2024 13:17:38: >Empfangene Daten: IP:172.20.31.55;ProjectName:MyProject;Email:myemail@example.com;CC1:cc1@example.com;CC2:cc2@example.com;MyProject
+08.10.2024 13:17:38: >Empfangene IP-Adresse: 172.20.31.55
+08.10.2024 13:17:38: >Empfangener Projektname: MyProject
+08.10.2024 13:17:38: >Empfangene E-Mail-Adresse: myemail@example.com
+08.10.2024 13:17:38: >Empfangene CCE-Mail1-Adresse: 
+08.10.2024 13:17:38: >Empfangene CCE-Mail2-Adresse: 
+08.10.2024 13:17:38: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\172.20.31.55.cfg
+08.10.2024 13:17:43: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:17:48: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:17:53: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:17:58: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:18:00: Client Verbindung verloren.
+08.10.2024 13:18:00: Client getrennt: 172.20.31.55 (MyProject)
+08.10.2024 13:18:02: Start des E-Mail-Versandprozesses.
+08.10.2024 13:18:02: Lade Client-Informationen aus Datei.
+08.10.2024 13:18:02: Lade Client-Informationen aus Datei: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\172.20.31.55.cfg
+08.10.2024 13:18:02: Client-Informationen erfolgreich aus Datei geladen.
+08.10.2024 13:18:02: Client-Informationen erfolgreich geladen.
+08.10.2024 13:18:05: Watchdog Server wird beendet.
+08.10.2024 13:19:04: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+08.10.2024 13:19:18: >Empfangene Daten: IP:172.20.31.55;ProjectName:MyProject;Email:myemail@example.com;CC1:cc1@example.com;CC2:cc2@example.com;MyProject
+08.10.2024 13:19:18: >Empfangene IP-Adresse: 172.20.31.55
+08.10.2024 13:19:18: >Empfangener Projektname: MyProject
+08.10.2024 13:19:18: >Empfangene E-Mail-Adresse: myemail@example.com
+08.10.2024 13:19:18: >Empfangene CCE-Mail1-Adresse: 
+08.10.2024 13:19:18: >Empfangene CCE-Mail2-Adresse: 
+08.10.2024 13:19:18: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\172.20.31.55.cfg
+08.10.2024 13:19:23: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:19:26: Watchdog Server wird beendet.
+08.10.2024 13:20:23: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+08.10.2024 13:20:30: >Empfangene Daten: IP:172.20.31.55;ProjectName:MyProject;Email:myemail@example.com;CC1:cc1@example.com;CC2:cc2@example.com;MyProject
+08.10.2024 13:20:30: >Empfangene IP-Adresse: 172.20.31.55
+08.10.2024 13:20:30: >Empfangener Projektname: MyProject
+08.10.2024 13:20:30: >Empfangene E-Mail-Adresse: myemail@example.com
+08.10.2024 13:20:30: >Empfangene CCE-Mail1-Adresse: 
+08.10.2024 13:20:30: >Empfangene CCE-Mail2-Adresse: 
+08.10.2024 13:20:30: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\172.20.31.55.cfg
+08.10.2024 13:20:35: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:20:40: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:20:45: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:20:50: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:20:55: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:21:00: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:21:05: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:21:10: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:21:15: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:21:20: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:21:25: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:21:30: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:21:35: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:21:40: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:21:45: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:21:50: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:21:55: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:22:00: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:22:05: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:22:10: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:22:15: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:22:20: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:22:25: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:22:30: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:22:35: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:22:40: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:22:45: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:22:50: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:22:55: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:23:00: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:23:05: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:23:10: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:23:15: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:23:20: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:23:25: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:23:30: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:23:35: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:23:40: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:23:45: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:23:50: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:23:55: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:24:00: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:24:05: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:24:11: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:24:16: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:24:21: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:24:26: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:24:31: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:24:36: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:24:41: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:24:46: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:24:51: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:24:56: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:25:01: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:25:06: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:25:11: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:25:16: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:25:21: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:25:26: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:25:31: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:25:36: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:25:41: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:25:46: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:25:51: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:25:56: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:26:01: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:26:04: Client Verbindung verloren.
+08.10.2024 13:26:04: Client getrennt: 172.20.31.55 (MyProject)
+08.10.2024 13:26:06: Start des E-Mail-Versandprozesses.
+08.10.2024 13:26:06: Lade Client-Informationen aus Datei.
+08.10.2024 13:26:06: Lade Client-Informationen aus Datei: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\172.20.31.55.cfg
+08.10.2024 13:26:06: Client-Informationen erfolgreich aus Datei geladen.
+08.10.2024 13:26:06: Client-Informationen erfolgreich geladen.
+08.10.2024 13:33:23: Watchdog Server wird beendet.
+08.10.2024 13:48:45: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+08.10.2024 13:48:51: >Empfangene Daten: IP:172.20.31.55;ProjectName:MyProject;Email:myemail@example.com;CC1:cc1@example.com;CC2:cc2@example.com;MyProject
+08.10.2024 13:48:51: >Empfangene IP-Adresse: 172.20.31.55
+08.10.2024 13:48:51: >Empfangener Projektname: MyProject
+08.10.2024 13:48:51: >Empfangene E-Mail-Adresse: myemail@example.com
+08.10.2024 13:48:51: >Empfangene CCE-Mail1-Adresse: 
+08.10.2024 13:48:51: >Empfangene CCE-Mail2-Adresse: 
+08.10.2024 13:48:51: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\172.20.31.55.cfg
+08.10.2024 13:48:56: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:49:01: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:49:06: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:49:08: Client Verbindung verloren.
+08.10.2024 13:49:08: Client getrennt: 172.20.31.55 (MyProject)
+08.10.2024 13:49:08: Watchdog Server wird beendet.
+08.10.2024 13:50:11: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+08.10.2024 13:50:17: >Empfangene Daten: IP:172.20.31.55;ProjectName:MyProject;Email:myemail@example.com;CC1:cc1@example.com;CC2:cc2@example.com;MyProject
+08.10.2024 13:50:17: >Empfangene IP-Adresse: 172.20.31.55
+08.10.2024 13:50:17: >Empfangener Projektname: MyProject
+08.10.2024 13:50:17: >Empfangene E-Mail-Adresse: myemail@example.com
+08.10.2024 13:50:17: >Empfangene CCE-Mail1-Adresse: 
+08.10.2024 13:50:17: >Empfangene CCE-Mail2-Adresse: 
+08.10.2024 13:50:17: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\172.20.31.55.cfg
+08.10.2024 13:50:22: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:50:22: Watchdog Server wird beendet.
+08.10.2024 13:50:44: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+08.10.2024 13:50:50: >Empfangene Daten: IP:172.20.31.55;ProjectName:MyProject;Email:myemail@example.com;CC1:cc1@example.com;CC2:cc2@example.com;MyProject
+08.10.2024 13:50:50: >Empfangene IP-Adresse: 172.20.31.55
+08.10.2024 13:50:50: >Empfangener Projektname: MyProject
+08.10.2024 13:50:50: >Empfangene E-Mail-Adresse: myemail@example.com
+08.10.2024 13:50:50: >Empfangene CCE-Mail1-Adresse: 
+08.10.2024 13:50:50: >Empfangene CCE-Mail2-Adresse: 
+08.10.2024 13:50:50: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\172.20.31.55.cfg
+08.10.2024 13:50:55: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:51:00: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:51:05: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:51:10: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:51:15: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:51:20: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:51:25: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:51:27: Watchdog Server wird beendet.
+08.10.2024 13:51:35: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+08.10.2024 13:51:41: >Empfangene Daten: IP:172.20.31.55;ProjectName:MyProject;Email:myemail@example.com;CC1:cc1@example.com;CC2:cc2@example.com;MyProject
+08.10.2024 13:51:41: >Empfangene IP-Adresse: 172.20.31.55
+08.10.2024 13:51:41: >Empfangener Projektname: MyProject
+08.10.2024 13:51:41: >Empfangene E-Mail-Adresse: myemail@example.com
+08.10.2024 13:51:41: >Empfangene CCE-Mail1-Adresse: 
+08.10.2024 13:51:41: >Empfangene CCE-Mail2-Adresse: 
+08.10.2024 13:51:41: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\172.20.31.55.cfg
+08.10.2024 13:51:46: Client Verbindung verloren.
+08.10.2024 13:51:46: Client getrennt: 172.20.31.55 (MyProject)
+08.10.2024 13:51:48: Watchdog Server wird beendet.
+08.10.2024 13:52:21: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+08.10.2024 13:52:28: >Empfangene Daten: IP:172.20.31.55;ProjectName:MyProject;Email:myemail@example.com;CC1:cc1@example.com;CC2:cc2@example.com;MyProject
+08.10.2024 13:52:28: >Empfangene IP-Adresse: 172.20.31.55
+08.10.2024 13:52:28: >Empfangener Projektname: MyProject
+08.10.2024 13:52:28: >Empfangene E-Mail-Adresse: myemail@example.com
+08.10.2024 13:52:28: >Empfangene CCE-Mail1-Adresse: 
+08.10.2024 13:52:28: >Empfangene CCE-Mail2-Adresse: 
+08.10.2024 13:52:28: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\172.20.31.55.cfg
+08.10.2024 13:52:33: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:52:38: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:52:43: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:52:48: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:52:53: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:52:58: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:53:03: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:53:08: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:53:13: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:53:18: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:53:23: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:53:28: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:53:33: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:53:38: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:53:43: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:53:48: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:53:52: Client Verbindung verloren.
+08.10.2024 13:53:52: Client getrennt: 172.20.31.55 (MyProject)
+08.10.2024 13:53:53: Watchdog Server wird beendet.
+08.10.2024 13:53:59: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+08.10.2024 13:54:05: >Empfangene Daten: IP:172.20.31.55;ProjectName:MyProject;Email:myemail@example.com;CC1:cc1@example.com;CC2:cc2@example.com;MyProject
+08.10.2024 13:54:05: >Empfangene IP-Adresse: 172.20.31.55
+08.10.2024 13:54:05: >Empfangener Projektname: MyProject
+08.10.2024 13:54:05: >Empfangene E-Mail-Adresse: myemail@example.com
+08.10.2024 13:54:05: >Empfangene CCE-Mail1-Adresse: 
+08.10.2024 13:54:05: >Empfangene CCE-Mail2-Adresse: 
+08.10.2024 13:54:05: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\172.20.31.55.cfg
+08.10.2024 13:54:10: Client Verbindung verloren.
+08.10.2024 13:54:10: Client getrennt: 172.20.31.55 (MyProject)
+08.10.2024 13:54:11: Watchdog Server wird beendet.
+08.10.2024 13:54:33: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+08.10.2024 13:54:39: >Empfangene Daten: IP:172.20.31.55;ProjectName:MyProject;Email:myemail@example.com;CCEmail1:cc1@example.com;CCEmail2:cc2@example.com;MyProject
+08.10.2024 13:54:39: >Empfangene IP-Adresse: 172.20.31.55
+08.10.2024 13:54:39: >Empfangener Projektname: MyProject
+08.10.2024 13:54:39: >Empfangene E-Mail-Adresse: myemail@example.com
+08.10.2024 13:54:39: >Empfangene CCE-Mail1-Adresse: cc2@example.com
+08.10.2024 13:54:39: >Empfangene CCE-Mail2-Adresse: 
+08.10.2024 13:54:39: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\172.20.31.55.cfg
+08.10.2024 13:54:44: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:54:48: Client Verbindung verloren.
+08.10.2024 13:54:48: Client getrennt: 172.20.31.55 (MyProject)
+08.10.2024 13:54:49: Watchdog Server wird beendet.
+08.10.2024 13:55:03: Watchdog Server gestartet auf IP 172.20.31.55 und Port 19979
+08.10.2024 13:55:09: >Empfangene Daten: IP:172.20.31.55;ProjectName:MyProject;Email:myemail@example.com;CCEmail1:cc1@example.com;CCEmail2:cc2@example.com;MyProject
+08.10.2024 13:55:09: >Empfangene IP-Adresse: 172.20.31.55
+08.10.2024 13:55:09: >Empfangener Projektname: MyProject
+08.10.2024 13:55:09: >Empfangene E-Mail-Adresse: myemail@example.com
+08.10.2024 13:55:09: >Empfangene CCE-Mail1-Adresse: cc1@example.com
+08.10.2024 13:55:09: >Empfangene CCE-Mail2-Adresse: cc2@example.com
+08.10.2024 13:55:09: Client-Informationen in Datei gespeichert: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\172.20.31.55.cfg
+08.10.2024 13:55:14: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:55:19: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:55:24: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:55:29: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:55:34: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:55:39: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:55:44: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:55:49: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:55:54: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:55:59: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:56:05: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:56:10: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:56:15: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:56:20: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:56:25: >Ping von 172.20.31.55 empfangen.
+08.10.2024 13:56:29: Client Verbindung verloren.
+08.10.2024 13:56:29: Client getrennt: 172.20.31.55 (MyProject)
+08.10.2024 13:56:31: Start des E-Mail-Versandprozesses.
+08.10.2024 13:56:31: Lade Client-Informationen aus Datei.
+08.10.2024 13:56:31: Lade Client-Informationen aus Datei: C:\Users\U23551\Documents\GitHub\WatchdogWAGO\Watchdog_Server_SL_AvantagEnergy\Watchdog_Server_SL_AvantagEnergy\bin\Debug\net8.0\clients\172.20.31.55.cfg
+08.10.2024 13:56:31: Client-Informationen erfolgreich aus Datei geladen.
+08.10.2024 13:56:31: Client-Informationen erfolgreich geladen.
+08.10.2024 13:56:44: Watchdog Server wird beendet.

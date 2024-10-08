@@ -29,7 +29,13 @@ namespace Watchdog_Server_SL_AvantagEnergy
             string from = "avantag.errorlog@web.de";
             string subject = "Client-Ausfallmeldung";
             string body = $"Client {clientInfo.IP} ({clientInfo.ProjectName}) hat sich nicht innerhalb von 15 Sekunden gemeldet.\nZeit: {DateTime.Now}";
-            MailMessage message = new MailMessage(from, to, subject, body);
+            MailMessage message = new MailMessage();
+            message.From = new MailAddress(from);
+            message.To.Add(new MailAddress(to));
+            message.CC.Add(new MailAddress(clientInfo.CCEmail1));
+            message.CC.Add(new MailAddress(clientInfo.CCEmail2));
+            message.Subject = subject;
+            message.Body = body;
 
             LogDev("Erstelle SmtpClient.");
             SmtpClient client = new SmtpClient("smtp.web.de")
@@ -85,6 +91,12 @@ namespace Watchdog_Server_SL_AvantagEnergy
                                 break;
                             case "Email":
                                 clientInfo.Email = value;
+                                break;
+                            case "CC1":
+                                clientInfo.CCEmail1 = value;
+                                break;
+                            case "CC2":
+                                clientInfo.CCEmail2 = value;
                                 break;
                                 // Fügen Sie hier weitere Fälle hinzu, falls nötig  
                         }

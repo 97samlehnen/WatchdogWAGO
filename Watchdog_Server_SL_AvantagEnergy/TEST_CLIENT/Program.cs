@@ -12,6 +12,8 @@ class WatchdogClient
     private static string ClientIP;
     private static string ProjectName;
     private static string Email;
+    private static string CCEmail1;
+    private static string CCEmail2;
     private static bool DevMode;
     private static String Version;
     private static String DEV;
@@ -64,6 +66,10 @@ class WatchdogClient
                 SendMessage(stream, "ProjectName", ProjectName);
                 // Senden der E-Mail-Adresse 
                 SendMessage(stream, "Email", Email);
+                // Senden der CC1-Adresse 
+                SendMessage(stream, "CCEmail1", CCEmail1);
+                // Senden der CC2-Adresse 
+                SendMessage(stream, "CCEmail2", CCEmail2);
                 // Setze die Textfarbe zurück
                 Console.ResetColor();
 
@@ -123,6 +129,14 @@ class WatchdogClient
                 else if (line.StartsWith("Email="))
                 {
                     Email = line.Substring("Email=".Length);
+                }
+                else if (line.StartsWith("CCEmail1="))
+                {
+                    CCEmail1 = line.Substring("CCEmail1=".Length);
+                }
+                else if (line.StartsWith("CCEmail2="))
+                {
+                    CCEmail2 = line.Substring("CCEmail2=".Length);
                 }
                 else if (line.StartsWith("DevMode="))
                 {

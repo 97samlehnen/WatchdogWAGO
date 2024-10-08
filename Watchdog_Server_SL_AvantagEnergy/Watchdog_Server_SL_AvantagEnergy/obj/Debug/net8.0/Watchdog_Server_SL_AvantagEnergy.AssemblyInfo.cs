@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Watchdog_Server_SL_AvantagEnergy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9edb65ca34fec4f09f417b69369efaec4fd52c65")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33114d0674d9802ccbaea3bfd7d67a048af52a19")]
 [assembly: System.Reflection.AssemblyProductAttribute("Watchdog_Server_SL_AvantagEnergy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Watchdog_Server_SL_AvantagEnergy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

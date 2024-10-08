@@ -13,7 +13,7 @@ using System.Threading.Tasks;
 
 namespace Watchdog_Server_SL_AvantagEnergy
 {
-    internal class SendSMS
+    //internal class SendSMS
     //{
     //    static void Main(string[] args)
     //    {

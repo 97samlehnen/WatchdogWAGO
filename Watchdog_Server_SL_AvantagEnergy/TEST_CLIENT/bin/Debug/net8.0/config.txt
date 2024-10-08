@@ -2,4 +2,6 @@ ServerPort=19979
 ClientIP=172.20.31.55
 ProjectName=MyProject
 Email=myemail@example.com
+CCEmail1=cc1@example.com
+CCEmail2=cc2@example.com
 DevMode=1
