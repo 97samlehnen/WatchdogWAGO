@@ -8,4 +8,4 @@ Um WatchdogWAGO zu installieren, folge diesen Schritten:
 
 1. Klone das Repository:
    ```bash
-   git clone https://github.com/dein-repository/watchdogwago.git
+   git clone https://github.com/97samlehnen/watchdogwago.git
