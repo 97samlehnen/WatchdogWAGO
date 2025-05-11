@@ -1,6 +1,6 @@
 # WatchdogWAGO
 
-WatchdogWAGO ist eine Software, die von Simeon Lehnen entwickelt wurde und im Besitz von Avantag Energy S.á.r.l. ist. Diese Software dient als Übergeordnetes Meldungsorgan / Überwachung von Störungen / Ausfällen der WagoPLC.
+WatchdogWAGO ist eine Software, die von Simeon Lehnen entwickelt wurde und im Besitz von NEXOTEC & LUNAR Robotics (https://nexotec.eu, https://www.lunar-robotics.com) ist. Diese Software dient als Übergeordnetes Meldungsorgan / Überwachung von Störungen / Ausfällen der WagoPLC.
 
 ## Installation
 
